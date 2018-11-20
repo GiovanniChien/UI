@@ -1,0 +1,48 @@
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 深度点云的三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 深度点云的三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 深度点云的三视图\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\5 初识深度点云数据\Test\bin\Debug\Test.xml

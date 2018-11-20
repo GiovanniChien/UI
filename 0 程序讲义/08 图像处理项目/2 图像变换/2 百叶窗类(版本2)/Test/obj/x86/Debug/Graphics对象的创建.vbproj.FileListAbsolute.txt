@@ -1,0 +1,9 @@
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\bin\Debug\Graphics对象的创建.exe
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\bin\Debug\Graphics对象的创建.pdb
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\bin\Debug\Graphics对象的创建.xml
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.frmGraphics.resources
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.Resources.resources
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.vbproj.GenerateResource.Cache
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.exe
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.xml
+C:\Users\baka9\AppData\Local\Temporary Projects\Graphics对象的创建\obj\x86\Debug\Graphics对象的创建.pdb

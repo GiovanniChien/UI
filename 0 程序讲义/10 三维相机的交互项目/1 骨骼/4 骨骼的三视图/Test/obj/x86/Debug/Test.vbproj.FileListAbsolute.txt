@@ -1,0 +1,62 @@
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\3 窗口视区变换\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 三视图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\4 骨骼的三视图\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\10 三维相机的交互项目\1 骨骼\4 骨骼的三视图\Test\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,11 @@
+F:\2015毕业设计\Test\Test\bin\Debug\Test.exe
+F:\2015毕业设计\Test\Test\bin\Debug\Test.pdb
+F:\2015毕业设计\Test\Test\bin\Debug\Test.xml
+F:\2015毕业设计\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2015毕业设计\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\2015毕业设计\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\2015毕业设计\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2015毕业设计\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2015毕业设计\Test\Test\obj\x86\Debug\Test.exe
+F:\2015毕业设计\Test\Test\obj\x86\Debug\Test.xml
+F:\2015毕业设计\Test\Test\obj\x86\Debug\Test.pdb

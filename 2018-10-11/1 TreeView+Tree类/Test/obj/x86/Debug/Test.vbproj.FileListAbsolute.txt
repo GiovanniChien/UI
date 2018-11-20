@@ -1,0 +1,11 @@
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\bin\Debug\Test.exe
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\bin\Debug\Test.pdb
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\bin\Debug\Test.xml
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\Test.Form1.resources
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\Test.exe
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\Test.xml
+D:\00UI_2018-09-20-12-47-03\10-11\Test\Test\obj\x86\Debug\Test.pdb

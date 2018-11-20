@@ -1,0 +1,24 @@
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\bin\Debug\frmTest.exe
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\bin\Debug\frmTest.pdb
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\bin\Debug\frmTest.xml
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.Form1.resources
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.Resources.resources
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.exe
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.xml
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.pdb
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.ucDigit.resources
+D:\0000讲义\3 开发项目\1 键盘操作\4 计算器\frmTest\frmTest\obj\x86\Debug\frmTest.ucOp.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.exe
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.pdb
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\bin\Debug\frmTest.exe
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\bin\Debug\frmTest.pdb
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\bin\Debug\frmTest.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.Form1.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.Resources.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.ucDigit.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.ucOp.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\4 计算器\1 数字盘运算盘控件\frmTest\obj\x86\Debug\frmTest.vbproj.GenerateResource.Cache

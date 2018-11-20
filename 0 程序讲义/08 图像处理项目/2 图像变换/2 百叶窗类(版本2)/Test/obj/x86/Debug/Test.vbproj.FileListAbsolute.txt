@@ -1,0 +1,30 @@
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\bin\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\bin\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\bin\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Graphics对象的创建方法\obj\x86\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\bin\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\bin\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\bin\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图像处理的交互技术\1 位图的显示、绘制、保存\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\bin\Debug\Test.exe
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\bin\Debug\Test.pdb
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\bin\Debug\Test.xml
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图像处理的交互技术\2 位图的幻灯显示\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0000讲义\08 图像处理项目\2 图像变换\2 百叶窗类(版本2)\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\2 图像变换\2 百叶窗类(版本2)\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\2 图像变换\2 百叶窗类(版本2)\Test\obj\x86\Debug\Test.pdb

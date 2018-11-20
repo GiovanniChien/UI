@@ -1,0 +1,13 @@
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\bin\Debug\3 TextEditor.exe.config
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\bin\Debug\3 TextEditor.exe
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\bin\Debug\3 TextEditor.pdb
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\bin\Debug\3 TextEditor.xml
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\_3_TextEditor.frmTextEditor.resources
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\_3_TextEditor.Resources.resources
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.exe
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.xml
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\3 TextEditor.pdb
+C:\Data\UI\2018-9-8\3 TextEditor\3 TextEditor\obj\Debug\_3_TextEditor.About.resources

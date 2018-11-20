@@ -1,0 +1,27 @@
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\8 3维图形\Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\4 三维图形\1 Kinect测量数据\2 骨骼类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

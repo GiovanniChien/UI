@@ -1,0 +1,30 @@
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 绘制多边形\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\1 点与凹凸多边形的关系\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 多边形运算\1 点与凹凸多边形的关系\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 多边形运算\1 点与凹凸多边形的关系\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\4 多边形运算\4 点与任意多边形的关系\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\4 多边形运算\5 带孔多边形与点的关系\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

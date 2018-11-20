@@ -1,0 +1,13 @@
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\OpenTK.Compatibility.dll
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\OpenTK.dll
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\bin\Debug\OpenTK.GLControl.dll
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.FrmTest.resources
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\4 三维图形\2 OpenTK的应用(VB.net)\8 多分画板不同的观察方式\Test\obj\x86\Debug\Test.pdb

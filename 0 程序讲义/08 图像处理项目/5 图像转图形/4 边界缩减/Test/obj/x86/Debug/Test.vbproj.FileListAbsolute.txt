@@ -1,0 +1,45 @@
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\1 提取区域\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\2 提取边界\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\4 图像转图形\3 边界重组\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\4 图像转图形\4 边界缩减？\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

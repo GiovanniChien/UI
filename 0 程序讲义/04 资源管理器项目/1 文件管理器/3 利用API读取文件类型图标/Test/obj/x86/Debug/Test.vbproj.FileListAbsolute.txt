@@ -1,0 +1,24 @@
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\bin\Debug\Tools.dll
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\bin\Debug\Tools.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\bin\Debug\Tools.dll
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\bin\Debug\Tools.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\3 文件管理器\3 利用API读取文件类型图标\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

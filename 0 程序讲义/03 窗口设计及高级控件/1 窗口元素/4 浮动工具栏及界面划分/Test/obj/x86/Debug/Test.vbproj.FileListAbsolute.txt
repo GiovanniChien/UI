@@ -1,0 +1,25 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 菜单与工具栏\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 菜单与工具栏\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 菜单与工具栏\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 浮动工具栏\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 浮动工具栏\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 浮动工具栏\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.Form1.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 浮动工具栏\Test\obj\x86\Debug\Test.Form2.resources

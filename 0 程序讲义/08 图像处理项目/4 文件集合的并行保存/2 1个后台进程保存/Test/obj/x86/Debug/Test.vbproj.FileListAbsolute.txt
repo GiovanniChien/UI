@@ -1,0 +1,127 @@
+F:\0002\UI\Test\Test\bin\Debug\Test.exe
+F:\0002\UI\Test\Test\bin\Debug\Test.pdb
+F:\0002\UI\Test\Test\bin\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\bin\Debug\Test.exe
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\bin\Debug\Test.pdb
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\bin\Debug\Test.xml
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\3 图像处理\2 图像的读写显示\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\3 图像处理\2 三维图像的创建显示\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\3 图像处理\2 三维图像的创建显示\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\3 图像处理\2 三维图像的创建显示\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\2 三维图像的创建显示\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\4 三维图像的创建显示（并行2）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\3 三维图像\6 保存图像集\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\bin\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\3 三维图像与并行计算\6 保存图像集（顺序操作）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\LibProgressBar.dll
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\LibProgressBar.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\bin\Debug\LibProgressBar.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\4 保存图像集（顺序操作）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\LibProgressBar.dll
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\LibProgressBar.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\bin\Debug\LibProgressBar.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\5 保存图像集（后台进程）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\bin\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\bin\Debug\Test.pdb
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\bin\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\bin\Debug\LibProgressBar.pdb
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\bin\Debug\LibProgressBar.xml
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\5 保存图像集（后台进程）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 一个后台进程保存\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 一个后台进程保存\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 一个后台进程保存\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 1个后台进程保存\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 1个后台进程保存\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\4 文件集合的并行保存\2 1个后台进程保存\Test\obj\x86\Debug\Test.pdb

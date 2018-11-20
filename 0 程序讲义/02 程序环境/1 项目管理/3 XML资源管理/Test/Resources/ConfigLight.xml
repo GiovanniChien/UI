@@ -1,0 +1,30 @@
+﻿<Light>
+    <Light0>
+      <position>0,0,0,1</position>
+      <ambient>51,51,51,255</ambient>
+      <diffuse>0,0,0,0</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light0>
+    
+    <Light1>
+      <position>75,100,130,1</position>
+      <ambient>30,30,30,255</ambient>
+      <diffuse>180,180,180,255</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light1>
+    
+    <Light2>
+      <position>-75,-100,0,1</position>
+      <ambient>30,30,30,255</ambient>
+      <diffuse>180,180,180,255</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light2>
+    
+    <Light3>
+      <position>0,0,0,1</position>
+      <ambient>30,30,30,255</ambient>
+      <diffuse>255,255,255,255</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light3>
+</Light>
+

@@ -1,0 +1,22 @@
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\bin\Debug\test.exe
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\bin\Debug\test.pdb
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\bin\Debug\test.xml
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\test.frmTest.resources
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\test.Resources.resources
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\test.exe
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\test.xml
+D:\00UI_2018-09-20-12-47-03\9-29\test\test\obj\x86\Debug\test.pdb
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\test.exe
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\test.xml
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\test.pdb
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\bin\Debug\test.exe
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\bin\Debug\test.pdb
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\bin\Debug\test.xml
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\test.frmTest.resources
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\test.Resources.resources
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI_2018-09-20-12-47-03\9-29\2 图像类\test\obj\x86\Debug\GenerateResource.write.1.tlog

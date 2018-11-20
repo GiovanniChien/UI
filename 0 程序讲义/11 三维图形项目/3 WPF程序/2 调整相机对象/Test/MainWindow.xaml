@@ -1,0 +1,35 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="350" Width="525">
+    <Grid Margin="0,3,0,-3">
+        <Viewport3D   Name="myView"  Margin="0,4,102,-4">
+            <Viewport3D.Camera>
+                <PerspectiveCamera x:Name="myCamera"   Position="-1,1,1" LookDirection="1,-1,-1" UpDirection="0,1,0">
+                </PerspectiveCamera>
+            </Viewport3D.Camera>
+            <ModelVisual3D>
+                <ModelVisual3D.Content>
+                    <DirectionalLight Color="Red"  Direction="1,1,1"></DirectionalLight>
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+
+            <ModelVisual3D >
+                <ModelVisual3D.Content>
+                    <GeometryModel3D >
+                        <GeometryModel3D.Geometry>
+                            <MeshGeometry3D x:Name="my3D"></MeshGeometry3D>
+                        </GeometryModel3D.Geometry>
+                        <GeometryModel3D.Material>
+                            <DiffuseMaterial Brush="Blue"  ></DiffuseMaterial>
+                        </GeometryModel3D.Material>
+                    </GeometryModel3D>
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+        </Viewport3D>
+
+        <Button x:Name="btn1" Content="Button" HorizontalAlignment="Left" Height="52" Margin="448,4,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button x:Name="btn2" Content="Button" HorizontalAlignment="Left" Height="51" Margin="448,77,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="48" Margin="448,175,0,0" VerticalAlignment="Top" Width="53" Click="Button_Click_1"/>
+    </Grid>
+</Window>

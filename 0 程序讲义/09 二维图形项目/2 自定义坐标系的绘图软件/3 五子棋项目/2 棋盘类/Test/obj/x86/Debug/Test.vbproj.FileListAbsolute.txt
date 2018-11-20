@@ -1,0 +1,25 @@
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\bin\Debug\Test.exe
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\bin\Debug\Test.pdb
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\bin\Debug\Test.xml
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\Test.exe
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\Test.xml
+D:\0000讲义\3 开发项目\3 二维图形\Test\Test\obj\x86\Debug\Test.pdb
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\Test.exe
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\Test.xml
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\Test.pdb
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\bin\Debug\Test.exe
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\bin\Debug\Test.pdb
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\bin\Debug\Test.xml
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000讲义\3 开发项目\3 二维图形\五子棋\2 棋盘类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0002\0000讲义\3 开发项目\3 二维图形\2 五子棋\2 棋盘类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\3 二维图形\2 五子棋\2 棋盘类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\3 二维图形\2 五子棋\2 棋盘类\Test\obj\x86\Debug\Test.pdb

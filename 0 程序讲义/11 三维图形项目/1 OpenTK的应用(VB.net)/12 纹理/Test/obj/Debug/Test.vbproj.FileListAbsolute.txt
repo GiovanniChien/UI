@@ -1,0 +1,13 @@
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.frmTest.resources
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.Resources.resources
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\Test.exe
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\Test.pdb
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\Test.xml
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\OpenTK.Compatibility.dll
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\OpenTK.dll
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\bin\Debug\OpenTK.GLControl.dll
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.exe
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.xml
+E:\0教学\0CG上课投影\11OpenTK的应用(VB.net)\12 纹理\Test\obj\Debug\Test.pdb

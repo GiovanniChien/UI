@@ -1,0 +1,27 @@
+﻿<Lights>
+  <Light0>
+    <!--<环境光：白光>-->
+    <position>0,0,0,1</position>
+      <ambient>255,255,255,255</ambient>
+      <diffuse>0,0,0,0</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light0>
+
+  <Light1>
+    <!--<散射光：Z高处的红光>-->
+    <position>0,0,10,1</position>
+      <ambient>0,0,0,0</ambient>
+      <diffuse>255,0,0,255</diffuse>
+      <specular>0,0,0,0</specular>
+    </Light1>
+
+  <Light2>
+    <!--<高亮光：X高处的绿光>-->
+    <position>10,0,0,1</position>
+      <ambient>0,0,0,0</ambient>
+      <diffuse>0,0,0,0</diffuse>
+      <specular>0,255,0,255</specular>
+    </Light2>
+    
+</Lights>
+

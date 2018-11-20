@@ -1,0 +1,46 @@
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\2 像素颜色空间的转换\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 图像的分析\Test\obj\x86\Debug\Test.Form1.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\4 图像的分析\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\4 图像的分析\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\4 图像的分析\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\4 图像的分析\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\08 图像处理项目\1 图像读写与分析\3 图像的分析\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\1 图像读写与分析\3 图像的分析\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\1 图像读写与分析\3 图像的分析\Test\obj\x86\Debug\Test.pdb

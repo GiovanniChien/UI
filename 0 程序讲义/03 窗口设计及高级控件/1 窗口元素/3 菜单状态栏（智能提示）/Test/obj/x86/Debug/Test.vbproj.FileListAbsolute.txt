@@ -1,0 +1,72 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmChild.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmParent.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.frmChild.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.frmParent.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\1 MDI程序框架\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.frmChild.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.frmParent.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单工具栏状态栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.frmChild.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.frmParent.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单工具栏状态栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.frmChild.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.frmParent.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmChild.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmParent.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmChild.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmParent.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.exe

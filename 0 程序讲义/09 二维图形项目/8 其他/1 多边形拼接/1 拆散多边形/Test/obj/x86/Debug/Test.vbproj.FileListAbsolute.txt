@@ -1,0 +1,41 @@
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.pdb
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术（图形拼接）\1 多边形类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\bin\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\bin\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\09 二维图形项目\8 其他\6 多边形拼接\1 多边形类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0000讲义\09 二维图形项目\8 其他\1 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\1 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\1 多边形拼接\1 多边形类\Test\obj\x86\Debug\Test.pdb

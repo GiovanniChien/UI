@@ -1,0 +1,24 @@
+C:\Data\UI\Test\Test\bin\Debug\Test.exe.config
+C:\Data\UI\Test\Test\bin\Debug\Test.exe
+C:\Data\UI\Test\Test\bin\Debug\Test.pdb
+C:\Data\UI\Test\Test\bin\Debug\Test.xml
+C:\Data\UI\Test\Test\obj\Debug\Test.vbprojAssemblyReference.cache
+C:\Data\UI\Test\Test\obj\Debug\Test.Form1.resources
+C:\Data\UI\Test\Test\obj\Debug\Test.Resources.resources
+C:\Data\UI\Test\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+C:\Data\UI\Test\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\Test\Test\obj\Debug\Test.exe
+C:\Data\UI\Test\Test\obj\Debug\Test.xml
+C:\Data\UI\Test\Test\obj\Debug\Test.pdb
+D:\Data\UI\Final\1 生成数独矩阵\Test\bin\Debug\Test.exe.config
+D:\Data\UI\Final\1 生成数独矩阵\Test\bin\Debug\Test.exe
+D:\Data\UI\Final\1 生成数独矩阵\Test\bin\Debug\Test.pdb
+D:\Data\UI\Final\1 生成数独矩阵\Test\bin\Debug\Test.xml
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.vbprojAssemblyReference.cache
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.Form1.resources
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.Resources.resources
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.vbproj.GenerateResource.cache
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.vbproj.CoreCompileInputs.cache
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.exe
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.xml
+D:\Data\UI\Final\1 生成数独矩阵\Test\obj\Debug\Test.pdb

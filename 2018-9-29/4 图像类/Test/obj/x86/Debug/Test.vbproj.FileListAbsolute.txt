@@ -1,0 +1,44 @@
+D:\00UI\9-27\Test\Test\bin\Debug\Test.exe
+D:\00UI\9-27\Test\Test\bin\Debug\Test.pdb
+D:\00UI\9-27\Test\Test\bin\Debug\Test.xml
+D:\00UI\9-27\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI\9-27\Test\Test\obj\x86\Debug\Test.Form1.resources
+D:\00UI\9-27\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\00UI\9-27\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI\9-27\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\00UI\9-27\Test\Test\obj\x86\Debug\Test.exe
+D:\00UI\9-27\Test\Test\obj\x86\Debug\Test.xml
+D:\00UI\9-27\Test\Test\obj\x86\Debug\Test.pdb
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\Test.exe
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\Test.xml
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\Test.pdb
+D:\00UI\9-27\2 图像类\Test\bin\Debug\Test.exe
+D:\00UI\9-27\2 图像类\Test\bin\Debug\Test.pdb
+D:\00UI\9-27\2 图像类\Test\bin\Debug\Test.xml
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\Test.Form1.resources
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\Test.Resources.resources
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI\9-27\2 图像类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\bin\Debug\Test.exe
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\bin\Debug\Test.xml
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\Test.Form1.resources
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\00 课堂程序\9-29\3 图像类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\bin\Debug\Test.exe
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\bin\Debug\Test.xml
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\Test.Form1.resources
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\00 课堂程序\9-29\4 图像类\Test\obj\x86\Debug\GenerateResource.write.1.tlog

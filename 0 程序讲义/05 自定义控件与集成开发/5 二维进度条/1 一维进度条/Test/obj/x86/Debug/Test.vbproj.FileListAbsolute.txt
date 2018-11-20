@@ -1,0 +1,27 @@
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\bin\Debug\Test.exe
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\bin\Debug\Test.pdb
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\bin\Debug\Test.xml
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.ucProgressBar.resources
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.exe
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.xml
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.pdb
+D:\0000讲义\2 开发环境\3 动态控件用户控件\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 一维进度条\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 一维进度条\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\1 一维进度条\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\bin\Debug\Test.exe
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\bin\Debug\Test.pdb
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\bin\Debug\Test.xml
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\Test.ucProgressBar.resources
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\1 一维进度条\Test\obj\x86\Debug\GenerateResource.write.1.tlog

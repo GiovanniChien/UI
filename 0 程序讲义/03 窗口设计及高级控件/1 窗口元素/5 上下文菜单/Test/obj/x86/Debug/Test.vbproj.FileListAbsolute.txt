@@ -1,0 +1,80 @@
+F:\DOGOPrinterV5.6\Test\Test\bin\Debug\Test.exe
+F:\DOGOPrinterV5.6\Test\Test\bin\Debug\Test.pdb
+F:\DOGOPrinterV5.6\Test\Test\bin\Debug\Test.xml
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.exe
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.xml
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.pdb
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\DOGOPrinterV5.6\Test\Test\obj\x86\Debug\Test.FrmTest1.resources
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\Test.exe
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\Test.xml
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\Test.pdb
+F:\DOGOPrinterV5.6\1文本框\Test\bin\Debug\Test.exe
+F:\DOGOPrinterV5.6\1文本框\Test\bin\Debug\Test.pdb
+F:\DOGOPrinterV5.6\1文本框\Test\bin\Debug\Test.xml
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\Test.frmTest.resources
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\Test.Resources.resources
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DOGOPrinterV5.6\1文本框\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\Test.exe
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\Test.xml
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\Test.pdb
+F:\DOGOPrinterV5.6\3列表框\Test\bin\Debug\Test.exe
+F:\DOGOPrinterV5.6\3列表框\Test\bin\Debug\Test.pdb
+F:\DOGOPrinterV5.6\3列表框\Test\bin\Debug\Test.xml
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\Test.frmTest.resources
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\Test.Resources.resources
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DOGOPrinterV5.6\3列表框\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\Test.exe
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\Test.xml
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\Test.pdb
+F:\DOGOPrinterV5.6\11上下文菜单\Test\bin\Debug\Test.exe
+F:\DOGOPrinterV5.6\11上下文菜单\Test\bin\Debug\Test.pdb
+F:\DOGOPrinterV5.6\11上下文菜单\Test\bin\Debug\Test.xml
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\Test.FrmTest.resources
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\Test.Resources.resources
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\DOGOPrinterV5.6\11上下文菜单\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\2 系统性能\11上下文菜单\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\新建文件夹\11上下文菜单\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\新建文件夹\11上下文菜单\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\新建文件夹\11上下文菜单\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\4 上下文菜单\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\4 上下文菜单\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\4 上下文菜单\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\4 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\5 上下文菜单\Test\obj\x86\Debug\GenerateResource.write.1.tlog

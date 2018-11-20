@@ -1,0 +1,33 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件的读写、颜色的转换\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\6 图像处理\1 图像文件读写和颜色的转换\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\6 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\2 图像处理\1 图像读写与分析\3 Chart控件\2 Chart控件入门：绘制多个数列\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

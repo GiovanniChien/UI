@@ -1,0 +1,28 @@
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\bin\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\bin\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\Test.Form1.resources
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\5 点集色彩\Test\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\7 点集色彩\Test\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\7 点集色彩\Test\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\7 点集色彩\Test\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 矩形\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 矩形\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 矩形\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\bin\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\bin\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\Test.Form1.resources
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\09 二维图形项目\8 其他\3 多边形点集着色\1 凸多边形\Test\obj\x86\Debug\GenerateResource.write.1.tlog

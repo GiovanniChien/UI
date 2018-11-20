@@ -1,0 +1,28 @@
+F:\0002\基于3维图形的交互技术\Test\Test\bin\Debug\Test.exe.config
+F:\0002\基于3维图形的交互技术\Test\Test\bin\Debug\Test.exe
+F:\0002\基于3维图形的交互技术\Test\Test\bin\Debug\Test.pdb
+F:\0002\基于3维图形的交互技术\Test\Test\bin\Debug\Test.xml
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\MainWindow.baml
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\MainWindow.g.vb
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Application.g.vb
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test_MarkupCompile.cache
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.g.resources
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.Resources.resources
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.exe
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.xml
+F:\0002\基于3维图形的交互技术\Test\Test\obj\Debug\Test.pdb
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\bin\Debug\Test.exe.config
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.exe
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.xml
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.pdb
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\bin\Debug\Test.exe
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\bin\Debug\Test.pdb
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\bin\Debug\Test.xml
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\MainWindow.baml
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\MainWindow.g.vb
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Application.g.vb
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test_MarkupCompile.cache
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.g.resources
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.Resources.resources
+F:\0002\基于3维图形的交互技术\2 调整相机对象\Test\obj\Debug\Test.vbproj.GenerateResource.Cache

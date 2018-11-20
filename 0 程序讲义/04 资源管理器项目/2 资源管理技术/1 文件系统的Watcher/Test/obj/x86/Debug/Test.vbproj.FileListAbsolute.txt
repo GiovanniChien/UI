@@ -1,0 +1,60 @@
+F:\0002\UI\Test\Test\bin\Debug\Test.exe
+F:\0002\UI\Test\Test\bin\Debug\Test.pdb
+F:\0002\UI\Test\Test\bin\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\2 文件夹的基本信息\Test\bin\Debug\Test.exe
+F:\0002\UI\2 文件夹的基本信息\Test\bin\Debug\Test.pdb
+F:\0002\UI\2 文件夹的基本信息\Test\bin\Debug\Test.xml
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\2 文件夹的基本信息\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\2 文件夹的浏览\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\2 文件夹的浏览\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\2 文件夹的浏览\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\3 文件夹的遍历\Test\bin\Debug\Test.exe
+F:\0002\UI\3 文件夹的遍历\Test\bin\Debug\Test.pdb
+F:\0002\UI\3 文件夹的遍历\Test\bin\Debug\Test.xml
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\3 文件夹的遍历\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\bin\Debug\Test.exe
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\bin\Debug\Test.pdb
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\bin\Debug\Test.xml
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\4 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 资源管理器\5 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\4 资源管理器（进阶）\2 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\4 资源管理器（进阶）\2 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\4 资源管理器（进阶）\2 文件夹的遍历(自动更新)\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 动态的文件夹浏览器\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 动态的文件夹浏览器\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 动态的文件夹浏览器\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 文件系统的Watcher\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 文件系统的Watcher\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\3 资源管理器\1 文件系统的Watcher\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\04 资源管理器项目\2 资源管理技术\1 文件系统的Watcher\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\04 资源管理器项目\2 资源管理技术\1 文件系统的Watcher\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\04 资源管理器项目\2 资源管理技术\1 文件系统的Watcher\Test\obj\x86\Debug\Test.pdb

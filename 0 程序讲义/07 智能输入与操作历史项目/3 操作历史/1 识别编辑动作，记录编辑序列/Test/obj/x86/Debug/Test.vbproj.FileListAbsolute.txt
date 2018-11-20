@@ -1,0 +1,34 @@
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.exe
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.pdb
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\bin\Debug\Test.xml
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.Resources.resources
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.exe
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.xml
+C:\Data\UI\0 程序讲义\07 智能输入与操作历史项目\3 操作历史\1 识别编辑动作，记录编辑序列\Test\obj\x86\Debug\Test.pdb

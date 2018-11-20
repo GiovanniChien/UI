@@ -1,0 +1,12 @@
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\bin\Debug\2 cntChar.exe.config
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\bin\Debug\2 cntChar.exe
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\bin\Debug\2 cntChar.pdb
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\bin\Debug\2 cntChar.xml
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\_2_cntChar.Form1.resources
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\_2_cntChar.Resources.resources
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.exe
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.xml
+C:\Data\UI\2018-9-8\2 cntChar\2 cntChar\obj\Debug\2 cntChar.pdb

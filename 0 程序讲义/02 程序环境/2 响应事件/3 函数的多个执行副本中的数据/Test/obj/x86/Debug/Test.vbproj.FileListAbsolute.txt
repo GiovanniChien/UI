@@ -1,0 +1,59 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\3 程序环境\新建文件夹\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\新建文件夹\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\2 My\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 DoEvents\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 在流程中响应事件DoEvents\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 在流程中响应事件DoEvents\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\3 在流程中响应事件DoEvents\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\3 环境与事件\4 函数的多个执行副本中的数据\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache

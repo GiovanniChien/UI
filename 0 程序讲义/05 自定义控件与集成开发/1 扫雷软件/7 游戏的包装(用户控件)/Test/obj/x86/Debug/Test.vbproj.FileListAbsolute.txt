@@ -1,0 +1,100 @@
+F:\0002\0000讲义\5 界面布局\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\2 一排Button的创建\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\3 Button矩阵的创建\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\扫雷\4 创建Button状态矩阵\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\4 创建Button状态矩阵\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\5 状态矩阵中的遍历 - 副本\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\6 游戏的包装\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\6 游戏的包装\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\6 游戏的包装\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\ctlGame.dll
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\ctlGame.pdb
+F:\0002\0000讲义\5 界面布局\1 扫雷软件\7 游戏的包装(自定义控件)\Test\bin\Debug\ctlGame.xml
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.dll
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.pdb
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.xml
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\0002\0000讲义\5 动态控件用户控件\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.exe
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\Test.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.dll
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\bin\Debug\ctlGame.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\WindowsApplication1.frmTest.resources
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\1 扫雷软件\7 游戏的包装(用户控件)\Test\obj\x86\Debug\GenerateResource.write.1.tlog

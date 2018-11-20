@@ -1,0 +1,12 @@
+D:\Data\UI\Final\test\test\bin\Debug\test.exe.config
+D:\Data\UI\Final\test\test\bin\Debug\test.exe
+D:\Data\UI\Final\test\test\bin\Debug\test.pdb
+D:\Data\UI\Final\test\test\bin\Debug\test.xml
+D:\Data\UI\Final\test\test\obj\Debug\test.vbprojAssemblyReference.cache
+D:\Data\UI\Final\test\test\obj\Debug\test.Form1.resources
+D:\Data\UI\Final\test\test\obj\Debug\test.Resources.resources
+D:\Data\UI\Final\test\test\obj\Debug\test.vbproj.GenerateResource.cache
+D:\Data\UI\Final\test\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+D:\Data\UI\Final\test\test\obj\Debug\test.exe
+D:\Data\UI\Final\test\test\obj\Debug\test.xml
+D:\Data\UI\Final\test\test\obj\Debug\test.pdb

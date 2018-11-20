@@ -1,0 +1,17 @@
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Test.exe
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Test.pdb
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Test.xml
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\Test.Form1.resources
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\Test.exe
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\Test.xml
+D:\0000UI\课程设计\3-14\WQ\Test\Test\obj\x86\Debug\Test.pdb
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Commons.dll
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Commons.pdb
+D:\0000UI\课程设计\3-14\WQ\Test\Test\bin\Debug\Commons.xml
+E:\00人机交互\Test\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\Test\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\Test\Test\obj\x86\Debug\Test.pdb

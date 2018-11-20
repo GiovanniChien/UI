@@ -1,0 +1,163 @@
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.pdb
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.pdb
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.exe
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.xml
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.pdb
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.exe
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.pdb
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\bin\Debug\Test.xml
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.Resources.resources
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\毕业设计2015\0002\基于2维图形的交互技术\2 PictureBox控件中的绘图\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.exe
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.xml
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.pdb
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.Resources.resources
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\bin\Debug\Test.exe
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\bin\Debug\Test.pdb
+F:\毕业设计2015\0002\gtn\2 PictureBox控件中的绘图\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术(葛天楠)\1 直线类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类2\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类+矩形类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类+矩形类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\1 直线类+矩形类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\3 图元类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\4 多边形类2\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\5 选择图形\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\1 绘图软件\6 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\7 2维图形\2 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.exe
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.pdb
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.exe
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.pdb
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\bin\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\2 列表选择图形及图形的选中状态\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\Test.exe
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\Test.pdb
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\bin\Debug\Test.exe
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\bin\Debug\Test.pdb
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\bin\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\Test.frmTest.resources
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\Test.Resources.resources
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0000UI\0000讲义\09 二维图形项目\3 选择图形\3 选集的构造\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\bin\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\bin\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\bin\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.Resources.resources
+E:\0教学\0UI讲义\09 二维图形项目\3 图形对象的选择技术\3 选集的构造\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\bin\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\bin\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\bin\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.Resources.resources
+E:\0教学\0UI讲义\09 二维图形项目\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.pdb
+D:\0000UI\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.exe
+D:\0000UI\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.xml
+D:\0000UI\0000讲义\09 二维图形项目\09 二维图形项目1-5\4 图形变换\3 选集的组合变换\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\bin\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\bin\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\4 图形变换\3 选集的变换\Test\obj\x86\Debug\Test.pdb

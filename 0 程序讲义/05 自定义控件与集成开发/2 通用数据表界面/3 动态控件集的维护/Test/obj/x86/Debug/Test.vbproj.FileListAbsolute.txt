@@ -1,0 +1,48 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\bin\Debug\Test.exe
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\bin\Debug\Test.pdb
+F:\0002\UI\2 界面布局\2 动态控件集合\Test\bin\Debug\Test.xml
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\bin\Debug\Test.exe
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\bin\Debug\Test.pdb
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\bin\Debug\Test.xml
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\2 界面布局\3 动态控件集的维护\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\5 界面布局\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护？\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\5 动态控件用户控件\2 输入数据表\3 动态控件集的维护\Test\obj\x86\Debug\Test.pdb

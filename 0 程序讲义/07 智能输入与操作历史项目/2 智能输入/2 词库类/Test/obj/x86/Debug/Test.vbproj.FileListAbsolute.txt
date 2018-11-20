@@ -1,0 +1,64 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\2 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\4 键盘操作\2 输入窗口\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\4 键盘操作\3 词库类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\3 词库类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb

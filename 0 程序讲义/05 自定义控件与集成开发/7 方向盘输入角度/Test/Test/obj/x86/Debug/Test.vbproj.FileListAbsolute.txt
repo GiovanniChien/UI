@@ -1,0 +1,25 @@
+D:\0界面初级\Test\Test\bin\Debug\Test.exe
+D:\0界面初级\Test\Test\bin\Debug\Test.pdb
+D:\0界面初级\Test\Test\bin\Debug\Test.xml
+D:\0界面初级\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0界面初级\Test\Test\obj\x86\Debug\Test.Form1.resources
+D:\0界面初级\Test\Test\obj\x86\Debug\Test.Resources.resources
+D:\0界面初级\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0界面初级\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0界面初级\Test\Test\obj\x86\Debug\Test.exe
+D:\0界面初级\Test\Test\obj\x86\Debug\Test.xml
+D:\0界面初级\Test\Test\obj\x86\Debug\Test.pdb
+E:\Test\Test\obj\x86\Debug\Test.exe
+E:\Test\Test\obj\x86\Debug\Test.xml
+E:\Test\Test\obj\x86\Debug\Test.pdb
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\Test.exe
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\Test.xml
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\Test.pdb
+F:\0 积木世界\AAAA\方向盘\Test\Test\bin\Debug\Test.exe
+F:\0 积木世界\AAAA\方向盘\Test\Test\bin\Debug\Test.pdb
+F:\0 积木世界\AAAA\方向盘\Test\Test\bin\Debug\Test.xml
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\Test.Form1.resources
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0 积木世界\AAAA\方向盘\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog

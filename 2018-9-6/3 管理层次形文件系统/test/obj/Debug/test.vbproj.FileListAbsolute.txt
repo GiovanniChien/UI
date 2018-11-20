@@ -1,0 +1,36 @@
+C:\Data\UI\2018-9-6\test\test\bin\Debug\test.exe.config
+C:\Data\UI\2018-9-6\test\test\bin\Debug\test.exe
+C:\Data\UI\2018-9-6\test\test\bin\Debug\test.pdb
+C:\Data\UI\2018-9-6\test\test\bin\Debug\test.xml
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.frmTest.resources
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.Resources.resources
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.exe
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.xml
+C:\Data\UI\2018-9-6\test\test\obj\Debug\test.pdb
+C:\Data\UI\2018-9-6\2 管理文件系统\test\bin\Debug\test.exe.config
+C:\Data\UI\2018-9-6\2 管理文件系统\test\bin\Debug\test.exe
+C:\Data\UI\2018-9-6\2 管理文件系统\test\bin\Debug\test.pdb
+C:\Data\UI\2018-9-6\2 管理文件系统\test\bin\Debug\test.xml
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.frmTest.resources
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.Resources.resources
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.exe
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.xml
+C:\Data\UI\2018-9-6\2 管理文件系统\test\obj\Debug\test.pdb
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\bin\Debug\test.exe.config
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\bin\Debug\test.exe
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\bin\Debug\test.pdb
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\bin\Debug\test.xml
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.frmTest.resources
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.Resources.resources
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.exe
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.xml
+C:\Data\UI\2018-9-6\3 管理层次形文件系统\test\obj\Debug\test.pdb

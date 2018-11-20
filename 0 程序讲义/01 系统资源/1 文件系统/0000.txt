@@ -1,0 +1,19 @@
+﻿        Directory.Delete(folder, True)
+    Sub DeleteFolder(ByVal folder As String)
+        Dim files() As String = Directory.GetFiles(folder)
+        For i = 0 To files.Length - 1
+            System.IO.File.Delete(files(i))
+        Next
+        Dim folders() As String = Directory.GetDirectories(folder)
+        For i = 0 To folders.Length - 1
+            DeleteFolder(folders(i))
+        Next
+        Directory.Delete(folder)
+    End Sub
+
+
+        'Dim acl As Security.AccessControl.DirectorySecurity = Directory.GetAccessControl(file)
+        'MsgBox(acl.ToString)
+        'Dim time As Date = Directory.GetLastAccessTime(file)
+        'Dim time As Date = Directory.GetLastWriteTime(file)
+        'MsgBox(time.ToString)

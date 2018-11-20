@@ -1,0 +1,23 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="616.538" Width="689.372">
+    <Grid Margin="0,3,0,-3">
+
+        <Button x:Name="btnOpen" Content="Open" HorizontalAlignment="Left" Height="52" Margin="448,4,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button x:Name="btnJD" Content="经度" HorizontalAlignment="Left" Height="51" Margin="448,77,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button x:Name="btnWD" Content="维度" HorizontalAlignment="Left" Height="48" Margin="540,80,0,0" VerticalAlignment="Top" Width="53"/>
+        <GroupBox Header="GroupBox" HorizontalAlignment="Left" Height="354" Margin="10,4,0,0" VerticalAlignment="Top" Width="409">
+            <Viewport3D  x:Name="VP1"   Margin="0,0,-2,-10" MouseWheel="Viewport3D_MouseWheel">
+            </Viewport3D>
+        </GroupBox>
+        <Button x:Name="btnPan" Content="Pan" HorizontalAlignment="Left" Margin="448,164,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnRotateX" Content="RotateX" HorizontalAlignment="Left" Margin="521,164,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnRotateY" Content="RotateY" HorizontalAlignment="Left" Margin="521,190,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnRotateZ" Content="RotateZ" HorizontalAlignment="Left" Margin="521,216,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnSave" Content="Save" HorizontalAlignment="Left" Margin="448,256,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="btnScale" Content="Scale" HorizontalAlignment="Left" Margin="597,164,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnMatrix" Content="Matrix" HorizontalAlignment="Left" Margin="597,190,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+        <Button x:Name="btnScaleZ" Content="RotateZ" HorizontalAlignment="Left" Margin="597,216,0,0" VerticalAlignment="Top" Width="53" RenderTransformOrigin="1.717,0.476"/>
+    </Grid>
+</Window>

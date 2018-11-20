@@ -1,0 +1,31 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainWindow" Height="430" Width="613">
+    <Grid>
+        <Grid HorizontalAlignment="Left" Height="392" Margin="10,10,0,0" VerticalAlignment="Top" Width="586">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="585*"/>
+            </Grid.ColumnDefinitions>
+            <Border BorderBrush="Silver" BorderThickness="5" Height="382" HorizontalAlignment="Left" Margin="263.2,10,0,0" x:Name="Border1" VerticalAlignment="Top" Width="312" Grid.Column="1">
+                <Image x:Name="Image1" Stretch="Fill" Margin="5.2,5.2,5.2,4.6" />
+            </Border>
+            <Canvas Grid.Column="1" HorizontalAlignment="Left" Height="167" Margin="10.2,10,0,0" VerticalAlignment="Top" Width="248" Background="{DynamicResource {x:Static SystemColors.MenuBarBrushKey}}">
+                <ComboBox Canvas.Left="10" Canvas.Top="10" Width="75">
+                    <ComboBoxItem IsSelected="True">功能</ComboBoxItem>
+                    <Button Content="建立连接" Height="22" HorizontalAlignment="Left" x:Name="Button1" VerticalAlignment="Top" Width="79" RenderTransformOrigin="0.048,-0.055" />
+                    <Button Content="绘制" Height="22" HorizontalAlignment="Left" x:Name="Button2" VerticalAlignment="Top" Width="79" />
+                </ComboBox>
+                <ComboBox Canvas.Top="10" Canvas.Left="100" RenderTransformOrigin="1.52,0.518">
+                    <ComboBoxItem>Item #1</ComboBoxItem>
+                    <ComboBoxItem IsSelected="True">Item #2</ComboBoxItem>
+                    <ComboBoxItem>Item #3</ComboBoxItem>
+                </ComboBox>
+            </Canvas>
+            <Canvas Grid.Column="1" HorizontalAlignment="Left" Height="200" Margin="10.2,182,0,0" VerticalAlignment="Top" Width="248" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}">
+                <ListBox Height="147" Canvas.Left="10" Canvas.Top="43" Width="116"/>
+            </Canvas>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,58 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\Test\bin\Debug\Test.exe.config
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\bin\Debug\Test.exe.config
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\3 程序环境\5 应用程序的参数设置\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\3 程序环境\6 应用程序的参数设置\Test\bin\Debug\Test.exe.config
+F:\0002\0000讲义\1 系统资源\3 程序环境\6 应用程序的参数设置\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\3 程序环境\6 应用程序的参数设置\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\3 程序环境\6 应用程序的参数设置\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\bin\Debug\Test.exe.config
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\3 应用程序的参数设置\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0000讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.exe.config
+E:\0000讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\00程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.exe.config
+E:\00人机交互\00程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\00程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\00程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.exe.config
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\02 程序环境\1 项目管理\1 程序参数\Test\obj\x86\Debug\GenerateResource.write.1.tlog

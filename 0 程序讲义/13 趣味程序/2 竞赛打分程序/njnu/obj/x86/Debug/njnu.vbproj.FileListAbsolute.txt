@@ -1,0 +1,41 @@
+E:\00开发2\张啸蔚\njnu\njnu\bin\Debug\njnu.exe
+E:\00开发2\张啸蔚\njnu\njnu\bin\Debug\njnu.pdb
+E:\00开发2\张啸蔚\njnu\njnu\bin\Debug\njnu.xml
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\njnu.frmGame.resources
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\njnu.Resources.resources
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\njnu.exe
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\njnu.xml
+E:\00开发2\张啸蔚\njnu\njnu\obj\x86\Debug\njnu.pdb
+E:\00开发\njnu\njnu\bin\Debug\njnu.exe.manifest
+E:\00开发\njnu\njnu\bin\Debug\njnu.application
+E:\00开发\njnu\njnu\bin\Debug\njnu.exe
+E:\00开发\njnu\njnu\bin\Debug\njnu.pdb
+E:\00开发\njnu\njnu\bin\Debug\njnu.xml
+E:\00开发\njnu\njnu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.frmGame.resources
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.Resources.resources
+E:\00开发\njnu\njnu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00开发\njnu\njnu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.exe.manifest
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.application
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.exe
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.xml
+E:\00开发\njnu\njnu\obj\x86\Debug\njnu.pdb
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.exe
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.xml
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.pdb
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\bin\Debug\njnu.exe.manifest
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\bin\Debug\njnu.application
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\bin\Debug\njnu.exe
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\bin\Debug\njnu.pdb
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\bin\Debug\njnu.xml
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.frmGame.resources
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.Resources.resources
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.exe.manifest
+E:\00人机交互\0 程序讲义\13 趣味程序\竞赛打分程序\njnu\obj\x86\Debug\njnu.application

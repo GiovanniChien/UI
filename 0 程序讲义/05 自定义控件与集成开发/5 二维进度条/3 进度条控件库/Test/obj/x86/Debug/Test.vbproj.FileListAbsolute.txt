@@ -1,0 +1,34 @@
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\Test.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\LibProgressBar.dll
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\LibProgressBar.pdb
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\bin\Debug\LibProgressBar.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\Test.Resources.resources
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\Test.exe
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\Test.xml
+F:\0000\0000讲义\3 开发项目\2 图像处理\5 文件的并行保存\3 进度条控件库\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\3 进度条控件库\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\3 进度条控件库\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\08 图像处理项目\4 文件的并行读写\3 进度条控件库\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\Test.exe
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\Test.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\Test.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\LibProgressBar.dll
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\LibProgressBar.pdb
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\bin\Debug\LibProgressBar.xml
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\00程序讲义\05 自定义控件与集成开发\5 二维进度条\3 进度条控件库\Test\obj\x86\Debug\GenerateResource.write.1.tlog

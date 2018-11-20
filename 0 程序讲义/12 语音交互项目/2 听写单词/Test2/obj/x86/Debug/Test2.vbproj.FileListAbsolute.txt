@@ -1,0 +1,56 @@
+D:\StudyWPF\Test2\Test2\bin\Debug\Test2.exe
+D:\StudyWPF\Test2\Test2\bin\Debug\Test2.pdb
+D:\StudyWPF\Test2\Test2\bin\Debug\Test2.xml
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test1.Form1.resources
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test1.Resources.resources
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test2.vbproj.GenerateResource.Cache
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test2.exe
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test2.xml
+D:\StudyWPF\Test2\Test2\obj\x86\Debug\Test2.pdb
+D:\语音\Dictation\Test2\obj\x86\Debug\Test2.exe
+D:\语音\Dictation\Test2\obj\x86\Debug\Test2.xml
+D:\语音\Dictation\Test2\obj\x86\Debug\Test2.pdb
+D:\语音\Dictation\Test2\bin\Debug\Test2.exe
+D:\语音\Dictation\Test2\bin\Debug\Test2.pdb
+D:\语音\Dictation\Test2\bin\Debug\Test2.xml
+D:\语音\Dictation\Test2\obj\x86\Debug\Test1.frmDictation.resources
+D:\语音\Dictation\Test2\obj\x86\Debug\Test1.Resources.resources
+D:\语音\Dictation\Test2\obj\x86\Debug\Test2.vbproj.GenerateResource.Cache
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test2.exe
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test2.xml
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test2.pdb
+D:\语音\2Dictation\Test2\bin\Debug\Test2.exe
+D:\语音\2Dictation\Test2\bin\Debug\Test2.pdb
+D:\语音\2Dictation\Test2\bin\Debug\Test2.xml
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test1.frmDictation.resources
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test1.Resources.resources
+D:\语音\2Dictation\Test2\obj\x86\Debug\Test2.vbproj.GenerateResource.Cache
+D:\语音\2听写\Test2\obj\x86\Debug\Test2.exe
+D:\语音\2听写\Test2\obj\x86\Debug\Test2.xml
+D:\语音\2听写\Test2\obj\x86\Debug\Test2.pdb
+D:\语音\2听写\Test2\bin\Debug\Test2.exe
+D:\语音\2听写\Test2\bin\Debug\Test2.pdb
+D:\语音\2听写\Test2\bin\Debug\Test2.xml
+D:\语音\2听写\Test2\obj\x86\Debug\Test1.frmDictation.resources
+D:\语音\2听写\Test2\obj\x86\Debug\Test1.Resources.resources
+D:\语音\2听写\Test2\obj\x86\Debug\Test2.vbproj.GenerateResource.Cache
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test2.exe
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test2.xml
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test2.pdb
+F:\0002\基于语音的交互技术\2 听写\Test2\bin\Debug\Test2.exe
+F:\0002\基于语音的交互技术\2 听写\Test2\bin\Debug\Test2.pdb
+F:\0002\基于语音的交互技术\2 听写\Test2\bin\Debug\Test2.xml
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test1.frmDictation.resources
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test1.Resources.resources
+F:\0002\基于语音的交互技术\2 听写\Test2\obj\x86\Debug\Test2.vbproj.GenerateResource.Cache
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\Test2.xml
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\Test2.pdb
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\bin\Debug\Test2.exe
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\bin\Debug\Test2.pdb
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\bin\Debug\Test2.xml
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\Test1.frmDictation.resources
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\Test1.Resources.resources
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00人机交互\0 程序讲义\12 语音交互项目\2 听写单词\Test2\obj\x86\Debug\Test2.exe

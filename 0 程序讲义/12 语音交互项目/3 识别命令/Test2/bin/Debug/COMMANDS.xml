@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<grammar version="1.0" xml:lang="zh-CN"
+         xmlns="http://www.w3.org/2001/06/grammar"
+         tag-format="semantics/1.0">
+  
+  <!-- cities.xml: 
+    Defines an SRGS grammar for requesting a flight. This grammar includes
+    a Cities rule that lists the cities that can be used for departures
+    and destinations. -->
+  
+
+  <rule id="OpWord1"  scope="public">
+    <one-of>
+      <item>可以啦</item>
+      <item>笑笑笑笑</item>
+      <item>出去玩</item>
+      <item>开</item>
+      <item>关</item>
+    </one-of>
+  </rule>
+
+  <rule id="OpWord2"  scope="public">
+    <one-of>
+      <item>left</item>
+      <item>right</item>
+      <item>top</item>
+      <item>bottom</item>
+      <item>one</item>
+      <item>two</item>
+      <item>three</item>
+      <item>11</item>
+      <item>22</item>
+      <item>111</item>
+      <item>222</item>
+    </one-of>
+  </rule>
+
+  <rule id="OpSentence" scope="public">
+    <one-of>
+      <item>
+        go to <ruleref uri="#OpWord2"/>
+        from <ruleref uri="#OpWord2"/>
+      </item>
+      <item>
+        from <ruleref uri="#OpWord2"/>
+        to <ruleref uri="#OpWord2"/>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

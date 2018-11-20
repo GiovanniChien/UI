@@ -1,0 +1,54 @@
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.pdb
+F:\0002\基于图形的交互技术\Test - 副本\Test\bin\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.exe
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.xml
+F:\0002\基于图形的交互技术\Test - 副本\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术\3 PictureBox控件中的绘图\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术\3 Region类的应用\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\7 直线\Test\bin\Debug\Test.exe
+F:\0002\基于2维图形的交互技术\7 直线\Test\bin\Debug\Test.pdb
+F:\0002\基于2维图形的交互技术\7 直线\Test\bin\Debug\Test.xml
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于2维图形的交互技术\7 直线\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.exe
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.xml
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.pdb
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\bin\Debug\Test.exe
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\bin\Debug\Test.pdb
+F:\0002\基于Kinect的图形交互技术\1 自定义坐标系\Test\bin\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.xml
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.Resources.resources
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\bin\Debug\Test.exe
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\bin\Debug\Test.pdb
+E:\0教学\0UI讲义\09 二维图形项目\2 自定义坐标系的绘图软件\1 自定义坐标系\Test\bin\Debug\Test.xml

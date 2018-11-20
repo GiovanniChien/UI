@@ -1,0 +1,11 @@
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\ResolveAssemblyReference.cache
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\GenerateResource.read.1.tlog
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\GenerateResource.write.1.tlog
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\bin\Debug\Commons.dll
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\bin\Debug\Commons.pdb
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\bin\Debug\Commons.xml
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\Commons.Resources.resources
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\Commons.ucCS.resources
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\Commons.dll
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\Commons.xml
+D:\0000UI\课程设计\3-14\WQ\Test\Commons\obj\Debug\Commons.pdb

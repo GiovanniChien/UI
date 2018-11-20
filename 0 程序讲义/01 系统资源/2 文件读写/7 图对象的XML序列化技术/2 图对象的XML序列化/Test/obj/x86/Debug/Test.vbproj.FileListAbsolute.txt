@@ -1,0 +1,9 @@
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\bin\Debug\Test.exe
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\bin\Debug\Test.pdb
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\bin\Debug\Test.xml
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.Resources.resources
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.exe
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.xml
+E:\0教学\0CG上课投影\13三维实体造型\1 同构结点网状结构对象的保存\5 图对象的XML序列化\Test\obj\x86\Debug\Test.pdb

@@ -1,0 +1,88 @@
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\Test\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\2 创建一行控件\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\3 创建控件矩阵\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\4 创建控件矩阵类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\5 创建控件矩阵类（回收）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.exe
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.exe
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.pdb
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\bin\Debug\Test.xml
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.Resources.resources
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.exe
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.xml
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用\Test\obj\x86\Debug\Test.pdb
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\bin\Debug\Test.exe
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\bin\Debug\Test.pdb
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\bin\Debug\Test.xml
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.Resources.resources
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.exe
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.xml
+C:\Data\UI\2018-9-13\人机交互9-13\9-13\6 创建控件矩阵类的应用(雷场)\Test\obj\x86\Debug\Test.pdb

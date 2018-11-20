@@ -1,0 +1,35 @@
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\4 My名空间\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.exe.manifest
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.application
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.exe.manifest
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.application
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.exe.manifest
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.application
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.exe.manifest
+F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\5 资源管理\Test\obj\x86\Debug\Test.application

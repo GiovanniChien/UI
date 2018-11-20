@@ -1,0 +1,46 @@
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\Test\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\2 管理文件夹\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\2 管理文件夹\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\bin\Debug\Test.exe
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\bin\Debug\Test.pdb
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\bin\Debug\Test.xml
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.Resources.resources
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\0人机交互技术\0 程序讲义\00 课堂程序\9-6\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.exe
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.exe
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.xml
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.pdb
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\bin\Debug\Test.exe
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\bin\Debug\Test.pdb
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\bin\Debug\Test.xml
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.frmTest.resources
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\Test.Resources.resources
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI\9-6\VB.net\3 管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\Test.exe
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\Test.xml
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\Test.pdb
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\bin\Debug\Test.exe
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\bin\Debug\Test.pdb
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\bin\Debug\Test.xml
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\Test.frmTest.resources
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\Test.Resources.resources
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\00UI\10-18\5 treeView管理层次型的文件夹\Test\obj\x86\Debug\GenerateResource.write.1.tlog

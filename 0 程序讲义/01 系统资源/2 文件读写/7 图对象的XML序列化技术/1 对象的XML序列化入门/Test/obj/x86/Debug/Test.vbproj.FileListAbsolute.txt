@@ -1,0 +1,9 @@
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\5 文件读写\新建文件夹\3 对象的XML序列化入门\Test\obj\x86\Debug\Test.pdb

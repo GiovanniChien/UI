@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsGraph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.clsGraph.com">
+  <AdjList>
+    <clsNode id="0">
+      <name>0</name>
+      <AdjIDs>
+        <int>2</int>
+        <int>4</int>
+      </AdjIDs>
+    </clsNode>
+    <clsNode id="1">
+      <name>1</name>
+      <AdjIDs>
+        <int>2</int>
+      </AdjIDs>
+    </clsNode>
+    <clsNode id="2">
+      <name>2</name>
+      <AdjIDs>
+        <int>0</int>
+        <int>3</int>
+      </AdjIDs>
+    </clsNode>
+    <clsNode id="3">
+      <name>3</name>
+      <AdjIDs>
+        <int>0</int>
+      </AdjIDs>
+    </clsNode>
+    <clsNode id="4">
+      <name>4</name>
+      <AdjIDs />
+    </clsNode>
+  </AdjList>
+</clsGraph>

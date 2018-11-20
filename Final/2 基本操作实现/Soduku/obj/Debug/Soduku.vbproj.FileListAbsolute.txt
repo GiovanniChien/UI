@@ -1,0 +1,65 @@
+C:\Data\UI\Soduku\Soduku\bin\Debug\Soduku.exe.config
+C:\Data\UI\Soduku\Soduku\bin\Debug\Soduku.exe
+C:\Data\UI\Soduku\Soduku\bin\Debug\Soduku.pdb
+C:\Data\UI\Soduku\Soduku\bin\Debug\Soduku.xml
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.vbprojAssemblyReference.cache
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.frmTest.resources
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.Resources.resources
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.vbproj.GenerateResource.cache
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.vbproj.CoreCompileInputs.cache
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.exe
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.xml
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.pdb
+C:\Data\UI\Soduku\Soduku\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Data\UI\Soduku\Soduku\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.vbproj.CopyComplete
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.frmOption.resources
+C:\Data\UI\Soduku\Soduku\obj\Debug\Soduku.frmStart.resources
+G:\Soduku\Soduku\bin\Debug\Soduku.exe.config
+G:\Soduku\Soduku\obj\Debug\Soduku.exe
+G:\Soduku\Soduku\obj\Debug\Soduku.xml
+G:\Soduku\Soduku\obj\Debug\Soduku.pdb
+G:\Soduku\Soduku\bin\Debug\Soduku.exe
+G:\Soduku\Soduku\bin\Debug\Soduku.pdb
+G:\Soduku\Soduku\bin\Debug\Soduku.xml
+G:\Soduku\Soduku\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\Soduku\Soduku\obj\Debug\Soduku.vbprojResolveAssemblyReference.cache
+G:\Soduku\Soduku\obj\Debug\Soduku.frmOption.resources
+G:\Soduku\Soduku\obj\Debug\Soduku.frmStart.resources
+G:\Soduku\Soduku\obj\Debug\Soduku.frmTest.resources
+G:\Soduku\Soduku\obj\Debug\Soduku.Resources.resources
+G:\Soduku\Soduku\obj\Debug\Soduku.vbproj.GenerateResource.Cache
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\Soduku.exe.config
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\Soduku.exe
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\Soduku.pdb
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\Soduku.xml
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Data\UI\Final\Soduku\Soduku\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.vbprojAssemblyReference.cache
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.frmOption.resources
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.frmStart.resources
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.frmTest.resources
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.Resources.resources
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.vbproj.GenerateResource.cache
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.vbproj.CoreCompileInputs.cache
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.vbproj.CopyComplete
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.exe
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.xml
+D:\Data\UI\Final\Soduku\Soduku\obj\Debug\Soduku.pdb
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\Soduku.exe.config
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\Soduku.exe
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\Soduku.pdb
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\Soduku.xml
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Data\UI\Final\2 基本操作实现\Soduku\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.vbprojAssemblyReference.cache
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.frmOption.resources
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.frmStart.resources
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.frmTest.resources
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.Resources.resources
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.vbproj.GenerateResource.cache
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.vbproj.CoreCompileInputs.cache
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.vbproj.CopyComplete
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.exe
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.xml
+D:\Data\UI\Final\2 基本操作实现\Soduku\obj\Debug\Soduku.pdb

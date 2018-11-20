@@ -1,0 +1,4 @@
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\FileHelper\bin\Debug\FileHelper.dll
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\FileHelper\bin\Debug\FileHelper.pdb
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\FileHelper\obj\Debug\FileHelper.dll
+F:\0002\0000讲义\2 开发环境\2 TreeView和ListView和资源管理\4 资源管理\Test\FileHelper\obj\Debug\FileHelper.pdb

@@ -1,0 +1,195 @@
+body {
+	font-family: "Helvetica Neue", "Hiragino Sans GB", "Segoe UI", "Microsoft Yahei", "Î¢ÈíÑÅºÚ", Tahoma, Arial, STHeiti, sans-serif; cursor: default;
+}
+#header-wrapper {
+	left: 0px; top: 0px; width: 100%; height: 100px; position: fixed; z-index: 18; background-repeat: repeat;
+}
+#footer {
+	margin: 10px 0px; padding: 0px; width: 100%; height: 70px; clear: both; background-color: rgb(20, 0, 28);
+}
+body {
+	margin: 0px; padding: 0px;
+}
+* {
+	margin: 0px; padding: 0px; list-style-type: none;
+}
+table {
+	font-size: 12px;
+}
+a {
+	border: 0px currentColor; border-image: none;
+}
+img {
+	border: 0px currentColor; border-image: none;
+}
+.meun_bg {
+	background: url("images/menu_backcolor.png"); left: 0px; top: 0px; width: 100%; height: 68px; overflow: hidden; position: absolute;
+}
+.meun {
+	margin: 0px auto; width: 1000px; height: 70px; overflow: hidden; padding-left: 13px; position: relative;
+}
+.meun li {
+	width: 102px; float: left;
+}
+#header-wrapper .meun ul #mainPageNav {
+	width: 60px;
+}
+.meun li.back {
+	height: 68px; overflow: hidden; padding-left: 8px; position: absolute; z-index: 8; background-color: rgb(227, 170, 37);
+}
+.meun li.back .arrow {
+	width: 92%; height: 68px; float: left; position: relative;
+}
+.meun li a {
+	padding: 18px 10px 0px; height: 43px; text-align: center; color: rgb(255, 255, 255); overflow: hidden; font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå"; font-size: 13px; text-decoration: none; float: left; display: block; position: relative; z-index: 10;
+}
+.meun li a span {
+	cursor: pointer;
+}
+.content-title-wrapper {
+	margin: 0px; padding: 0px; width: 100%; height: 180px; float: left; position: relative; background-color: rgb(78, 29, 76);
+}
+.content-title-wrapper #content-title {
+	margin: 125px auto 0px; padding: 0px; width: 1000px; height: auto; color: rgb(255, 255, 255); font-family: "Î¢ÈíÑÅºÚ"; font-size: 30px; display: block; background-color: rgb(78, 29, 76);
+}
+.content-intro-wrapper {
+	margin: 0px; padding: 0px; width: 100%; height: auto; float: left; background-color: rgb(119, 52, 96);
+}
+.content-intro-wrapper #content-intro-title {
+	margin: 0px; left: -30px; top: -30px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+.content-intro-wrapper #content-intro-background {
+	margin: 60px auto 15px; padding: 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-intro-wrapper #content-intro-background #content-intro-content {
+	margin: 0px; padding: 15px; color: rgb(0, 0, 0); text-indent: 2em; font-size: 12px; display: block;
+}
+.content-ppt-wrapper {
+	width: 100%; height: auto; float: left; background-color: rgb(229, 131, 8);
+}
+.content-ppt-wrapper #content-ppt-background {
+	margin: 15px auto; padding: 25px 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-ppt-wrapper #content-ppt-background #content-ppt-title {
+	margin: 0px; left: -30px; top: -35px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+.content-ppt-wrapper #content-ppt-background .content-ppt-content {
+	margin: 0px; padding: 5px 10px 16px 35px; color: rgb(0, 0, 0); font-size: 12px; display: block;
+}
+.content-classvideo-wrapper {
+	width: 100%; height: auto; float: left; background-color: rgb(244, 208, 0);
+}
+.content-classvideo-wrapper #content-classvideo-background {
+	margin: 15px auto; padding: 25px 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-classvideo-wrapper #content-classvideo-background .content-classvideo-content {
+	margin: 0px; padding: 5px 10px 16px 35px; color: rgb(0, 0, 0); font-size: 16px; display: block;
+}
+.content-classvideo-wrapper #content-classvideo-background #content-classvideo-title {
+	margin: 0px; left: -30px; top: -35px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+.content-exp-wrapper {
+	width: 100%; height: auto; float: left; background-color: rgb(138, 151, 123);
+}
+.content-exp-wrapper #content-exp-background {
+	margin: 15px auto; padding: 25px 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-exp-wrapper #content-exp-background .content-exp-content {
+	margin: 0px; padding: 5px 10px 16px 35px; color: rgb(0, 0, 0); line-height: 150%; font-size: 12px; display: block;
+}
+.content-exp-wrapper #content-exp-background #content-exp-title {
+	margin: 0px; left: -30px; top: -35px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+.content-discuss-wrapper {
+	width: 100%; height: auto; float: left; background-color: rgb(182, 194, 154);
+}
+.content-discuss-wrapper #content-discuss-background {
+	margin: 15px auto; padding: 25px 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-discuss-wrapper #content-discuss-background .content-discuss-content {
+	margin: 0px; padding: 5px 10px 16px 35px; color: rgb(0, 0, 0); line-height: 150%; font-size: 12px; display: block;
+}
+.content-discuss-wrapper #content-discuss-background #content-discuss-title {
+	margin: 0px; left: -30px; top: -35px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+.content-reference-wrapper {
+	width: 100%; height: auto; float: left; background-color: rgb(220, 87, 18);
+}
+.content-reference-wrapper #content-reference-background {
+	margin: 15px auto; padding: 25px 0px; width: 1000px; height: auto; position: relative; background-image: url("images/contentbackground.png");
+}
+.content-reference-wrapper #content-reference-background .content-reference-content {
+	margin: 0px; padding: 5px 10px 16px 35px; color: rgb(0, 0, 0); font-size: 12px; display: block;
+}
+.content-reference-wrapper #content-reference-background #content-reference-title {
+	margin: 0px; left: -30px; top: -35px; width: 567px; height: 26px; color: rgb(255, 255, 255); padding-top: 5px; padding-bottom: 10px; font-size: 20px; display: block; position: absolute; background-image: url("images/menutitle.png");
+}
+h2 {
+	background: url("navigation.jpg") no-repeat; height: 40px; color: rgb(153, 153, 153); margin-bottom: 0px; margin-left: 13px;
+}
+h2 span {
+	display: none;
+}
+p {
+	color: rgb(255, 255, 102); padding-left: 15px; font-size: 0.75em; margin-top: 0.5em;
+}
+#language-block {
+	left: 0px; top: 70px; position: fixed; z-index: 100;
+}
+ul #language-navigation {
+	list-style: none; margin: 30px 0px; padding: 0px;
+}
+ul#language-navigation li.sliding-element h3 {
+	margin: 0px 0px 5px; padding: 5px 18px; width: 35px; font-size: 15px; display: block;
+}
+ul#language-navigation li.sliding-element a {
+	margin: 0px 0px 5px; padding: 5px 18px; width: 35px; font-size: 15px; display: block;
+}
+ul#language-navigation li.sliding-element h3 {
+	background: url("heading_bg.jpg") repeat-y rgb(51, 51, 51); color: rgb(255, 255, 255); font-weight: normal;
+}
+ul#language-navigation li.sliding-element a {
+	background: url("tab_bg.jpg") repeat-y rgb(34, 34, 34); border: 1px solid rgb(26, 26, 26); border-image: none; color: rgb(153, 153, 153); text-decoration: none;
+}
+ul#language-navigation li.sliding-element a:hover {
+	color: rgb(255, 255, 102); font-size: 16px;
+}
+#navigation-block {
+	top: 40px; right: 0px; position: fixed; z-index: 100;
+}
+#hide {
+	left: -190px; top: 30px; position: absolute;
+}
+ul#sliding-navigation {
+	list-style: none; margin: 30px 0px; padding: 0px;
+}
+ul#sliding-navigation li.sliding-element h3 {
+	margin: 0px 0px 5px; padding: 5px 18px; width: 15px; font-size: 15px; display: block;
+}
+ul#sliding-navigation li.sliding-element a {
+	margin: 0px 0px 5px; padding: 5px 18px; width: 15px; font-size: 15px; display: block;
+}
+ul#sliding-navigation li.sliding-element h3 {
+	background: url("heading_bg.jpg") repeat-y rgb(51, 51, 51); color: rgb(255, 255, 255); font-weight: normal;
+}
+ul#sliding-navigation li.sliding-element a {
+	background: url("tab_bg.jpg") repeat-y rgb(34, 34, 34); border: 1px solid rgb(26, 26, 26); border-image: none; color: rgb(153, 153, 153); text-decoration: none;
+}
+ul#sliding-navigation li.sliding-element a:hover {
+	color: rgb(255, 255, 102); font-size: 16px;
+}
+#content .content-intro-wrapper #content-intro-background ul {
+	margin-left: 50px;
+}
+#content .content-intro-wrapper #content-intro-background ul li {
+	list-style: circle;
+}
+#content .content-discuss-wrapper #content-discuss-background .content-discuss-content #askbutton {
+	width: 80px; height: 36px;
+}
+#content .content-discuss-wrapper #content-discuss-background .content-discuss-content span {
+	font-size: 12px;
+}
+#content .content-discuss-wrapper #content-discuss-background .content-discuss-content span {
+	margin-left: 40px;
+}

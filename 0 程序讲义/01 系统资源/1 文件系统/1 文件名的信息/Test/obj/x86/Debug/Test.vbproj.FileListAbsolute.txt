@@ -1,0 +1,39 @@
+F:\0002\UI\Test\Test\bin\Debug\Test.exe
+F:\0002\UI\Test\Test\bin\Debug\Test.pdb
+F:\0002\UI\Test\Test\bin\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.exe
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.xml
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\1 资源管理器\1 文件名的基本信息\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 资源管理器\1 文件名的信息\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\1 文件名的信息\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\1 文件名的信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\2 开发环境\1 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 开发环境\1 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 开发环境\1 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\01 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\01 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\01 系统资源\1 文件系统\1 文件名的信息\Test\obj\x86\Debug\Test.pdb

@@ -1,0 +1,1091 @@
+<!DOCTYPE html>
+<!-- saved from url=(0095)https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#code-snippet-1 -->
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="zh"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="WT.seg_1" content="zh-cn"><link rel="canonical" href="https://msdn.microsoft.com/zh-cn/library/ms745195(v=vs.110).aspx">
+        <title>如何：在 Viewport3D 中进行命中测试</title>
+
+
+
+
+
+<meta name="DCS.dcsuri" content="/zh-cn/library/ms745195(d=default,l=zh-cn,v=vs.110).aspx">
+
+<meta name="NormalizedUrl" content="https://msdn.microsoft.com/zh-cn/library/ms745195(d=default,l=zh-cn,v=vs.110).aspx">
+
+<meta name="ms.normalizedurl" content="https://msdn.microsoft.com/zh-cn/library/ms745195(d=default,l=zh-cn,v=vs.110).aspx">
+
+<meta name="DCSext.ProductFamily" content="LIB_DG">
+
+<meta name="DCSext.Product" content="NDP_WPF">
+
+<meta name="DCSext.Title" content="如何：在 Viewport3D 中进行命中测试">
+
+<meta name="VotingContextUrl" content="https://msdn.microsoft.com/zh-cn/library/ms745195(d=default,l=zh-cn,v=vs.110).aspx">
+
+<meta name="MN" content="61C41DD0-1:40:11 AM">
+
+<meta name="Search.ShortId" content="ms745195">
+
+<meta name="ms.shortidmsdn" content="ms745195">
+
+<meta name="Ms.Locale" content="zh-cn">
+
+<meta name="ms.prodver" content="VS.110">
+
+<meta name="ms.contentlang" content="ZH">
+
+<meta name="ms.lang" content="ZH">
+
+<meta name="ms.loc" content="CN">
+
+<meta name="ms.sitever" content="2015.06.02.3">
+
+<meta name="ms.assetid" content="42bfbd99-c7c6-43f1-940b-90448faa412e">
+
+<meta name="ms.auth" content="0">
+
+
+
+
+
+
+
+
+        
+    <link rel="stylesheet" type="text/css" href="./如何：在 Viewport3D 中进行命中测试_files/Combined.css"><script type="text/javascript" src="./如何：在 Viewport3D 中进行命中测试_files/ai.js" async=""></script><script class="mtps-injected">try {
+/**/
+(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { 
+	"image": "https://i-msdn.sec.s-msft.com", 
+	"js": "https://i2-msdn.sec.s-msft.com", 
+	"css": "https://i-msdn.sec.s-msft.com", 
+	"xap": "https://msdn.microsoft.com"
+});
+/**/
+} finally { MTPS._injectNextScript_0 && MTPS._injectNextScript_0(); }</script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/jquery-1.8.2.min.js"></script><script class="mtps-injected">try {
+//
+  var literalNormalizedUrl = '/zh-cn/library/ms745195(l=zh-cn,v=vs.110).aspx';
+  var wt_nvr_ru = 'WT_NVR_RU';
+  var wt_fpcdom = '.microsoft.com';
+  var wt_domlist = 'msdn.microsoft.com';
+  var wt_pathlist = '';
+  var wt_paramlist = 'DCSext.mtps_devcenter';
+  var wt_siteid = 'MSDN';
+  var gDomain = 'm.webtrends.com';
+  var gDcsId = 'dcsmgru7m99k7mqmgrhudo0k8_8c6m';
+  var gFpc = 'WT_FPC';
+
+
+
+  if (document.cookie.indexOf(gFpc + "=") == -1) {
+    var wtidJs = document.createElement("script");
+    wtidJs.src = "//" + gDomain + "/" + gDcsId + "/wtid.js";
+    document.getElementsByTagName("head")[0].appendChild(wtidJs);
+  }
+
+
+
+  var detectedLocale = 'zh-cn';
+  var wtsp = 'msdnlib_dotnet';
+  var gTrackEvents = '0';
+/**/
+} finally { MTPS._injectNextScript_2 && MTPS._injectNextScript_2(); }</script><script class="mtps-injected">try {
+/**/
+  var omni_guid = "ebf9ac64-c5d4-4079-b1b9-1cb23deb646a";
+/**/
+} finally { MTPS._injectNextScript_3 && MTPS._injectNextScript_3(); }</script><script class="mtps-injected">try {
+//
+
+            window.appInsightsId = '60854590-027a-4ae4-98be-2741a40f355f';
+            //
+} finally { MTPS._injectNextScript_4 && MTPS._injectNextScript_4(); }</script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/Combined.js"></script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/SearchBox.jss"></script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/Combined(1).js"></script><script class="mtps-injected">try {
+//
+    MTPS = window.MTPS || {};
+    MTPS.Translation = window.MTPS.Translation || {};
+
+    MTPS.Translation.TranslationType =  0;
+    
+    
+        
+        MTPS.Translation.EditorLink = {
+            includeEditor : 0,
+            editLink: "https://msdn.microsoft.com/zh-cn/library/translation/edit/ms745195.aspx",
+            editLinkText: "建议更好的翻译"
+        };
+        
+    //
+} finally { MTPS._injectNextScript_8 && MTPS._injectNextScript_8(); }</script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/Combined(2).js"></script><script class="mtps-injected">try {
+MTPS = window.MTPS || {}; MTPS.LocalizedStrings = window.MTPS.LocalizedStrings || {}; MTPS.LocalizedStrings.ExpandButtonTooltip = '展开'; MTPS.LocalizedStrings.CollapseButtonTooltip = '折叠'; MTPS.LocalizedStrings.EnhancedExpandTooltip = '单击以展开。双击以全部展开。'; MTPS.LocalizedStrings.EnhancedCollapseTooltip = '单击以折叠。双击以全部折叠。'; MTPS.LocalizedStrings.ExpandAllButtonTooltip = '全部展开'; MTPS.LocalizedStrings.CollapseAllButtonTooltip = '全部折叠';
+} finally { MTPS._injectNextScript_10 && MTPS._injectNextScript_10(); }</script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/jquery.tmpl.min.js"></script><script class="mtps-injected" src="./如何：在 Viewport3D 中进行命中测试_files/Combined(3).js"></script><script src="./如何：在 Viewport3D 中进行命中测试_files/broker.js"></script><script class="mtps-injected">try {
+$(document).ready(function() {
+        try {
+            var token = $("#globalRequestVerification input[name='__RequestVerificationToken']").clone();
+            $("#siteFeedbackForm").append(token);
+        } catch(err) {
+            
+        }
+    });
+} finally { MTPS._injectNextScript_13 && MTPS._injectNextScript_13(); }</script><link href="./如何：在 Viewport3D 中进行命中测试_files/PrintView.css" rel="stylesheet" type="text/css" media="print"><script type="text/javascript" src="./如何：在 Viewport3D 中进行命中测试_files/ms.js"></script></head>
+    <body class="library Chrome">
+        <div id="page">
+            
+
+            
+            
+            
+    
+
+    
+    <link type="text/css" rel="stylesheet">
+    
+    <input type="hidden" id="isHeaderBleeding" value="true">
+    <div id="ux-header" dir="ltr" class="ltr msdn" data-device-type="desktop">
+        
+
+      <header>
+        <span id="singleCol"></span>
+        <span id="doubleCol"></span>
+        <span id="isMobile"></span>
+        <div>
+          <div class="row topRow">
+            <div class="top">
+              <div class="left">
+                <a class="msdnLogoImg" href="https://msdn.microsoft.com/zh-cn">
+                  <div id="msft-logo" class="msft-logo"></div>
+                </a>
+                <div class="GrayPipe"></div>
+                  <a class="DevCenterFullNameNonMegaBlade" href="https://msdn.microsoft.com/zh-cn">Developer Network</a>
+                <a class="DevCenterFullName" href="https://msdn.microsoft.com/zh-cn">Developer Network</a>
+                <a class="DevCenterShortName" href="https://msdn.microsoft.com/zh-cn">Developer</a>
+              </div>
+              <div class="right">
+                <div id="signIn">
+
+  <img class="profileImage" src="./如何：在 Viewport3D 中进行命中测试_files/profile.jpg">
+
+
+
+<a class="scarabLink" href="https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1434098411&rver=6.0.5276.0&wp=MCMBI&wlcxt=MSDN%24MSDN%24MSDN&wreply=https%3a%2f%2fmsdn.microsoft.com%2fzh-cn%2flibrary%2fms745195.aspx%3fcs-save-lang%3d1%26cs-lang%3dvb&lc=2052&id=254354&mkt=zh-CN" title="登录">登录</a></div>
+
+
+
+
+                <div class="auxNav">
+                  <div>
+                    <div data-fragmentname="Subscriptions" id="Fragment_Subscriptions" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="https://msdn.microsoft.com/subscriptions/manage/hh442900" id="Subscriptions_2153_1" xmlns="http://www.w3.org/1999/xhtml">
+    <span style="line-height:18px;" xmlns="">MSDN 订阅</span>
+  </a>
+</div>
+                    <div data-fragmentname="GetTools" id="Fragment_GetTools" xmlns="http://www.w3.org/1999/xhtml">
+  <a href="http://go.microsoft.com/fwlink/?LinkId=309297&clcid=0x804&slcid=0x804&campaign=o~msft~msdn~gettools-header~dn308572" id="GetTools_2153_3" xmlns="http://www.w3.org/1999/xhtml">
+    <span style="line-height:18px;" xmlns="">获取工具</span>
+  </a>
+</div>
+                  </div>
+                  <div>
+                    <div data-fragmentname="SocialLinks" id="Fragment_SocialLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <ul class="links horizontal">
+      <li>
+        <a href="http://www.weibo.com/cnmsdn" id="SocialLinks_2152_8" class="weiboShare" xmlns="http://www.w3.org/1999/xhtml">http://www.weibo.com/cnmsdn</a>
+      </li>
+      <li>
+        <a href="http://aka.ms/msdnwechat" id="SocialLinks_2152_9" class="wechatShare" xmlns="http://www.w3.org/1999/xhtml">http://aka.ms/msdnwechat</a>
+      </li>
+      <li>
+        <a href="http://aka.ms/contactmsdn" id="SocialLinks_2152_10" class="cnContactShare" xmlns="http://www.w3.org/1999/xhtml">http://aka.ms/contactmsdn</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <div class="row middleRow">
+            <div class="expandTop" style="display: none;">
+              <div class="left"></div>
+              <div class="right"></div>
+            </div>
+          </div>
+        </div>
+        <div id="buttomRowWrapper" style="background-color: #232323;">
+          <div class="row buttomRow" style="background-color: #232323">
+            <div class="bottom">
+              <div class="left">
+                <a id="grip" class="menu-icon" href="javascript:void(0)"></a>
+                
+                <div id="drawer">
+                  <div class="toc">
+                    
+        <nav>
+            <ul class="navL1">
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)" title="技术">技术</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/cloud-app-development-msdn" title="云">云</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/mobile-app-development-msdn" title="移动">移动</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/web-app-development-msdn" title="Web">Web</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/business-and-productivity-app-development-msdn" title="企业">企业</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/big-data-development-msdn" title="数据">数据</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/zh-cn/games-development-msdn" title="游戏">游戏</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)" title="下载">下载</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://www.visualstudio.com/downloads/download-visual-studio-vs" title="Visual Studio">Visual Studio</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/subscriptions/" title="MSDN 订阅访问">MSDN 订阅访问</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://msdn.microsoft.com/microsoft-sdks-msdn" title="SDK">SDK</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="试用软件">试用软件</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/evalcenter" title="免费下载">免费下载</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/officeevaluationresources" title="Office 资源">Office 资源</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sharepoint2013resources" title="Share Point Server 2013 资源">Share Point Server 2013 资源</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/windowsserver2012r2resources" title="Windows Server 2012 资源">Windows Server 2012 资源</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/sqlserver2014expressresources" title="SQL Server 2014 Express 资源">SQL Server 2014 Express 资源</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)" title="计划">计划</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://rewards.msdn.microsoft.com/" title="奖励">奖励</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="https://www.microsoft.com/bizspark" title="初创企业">初创企业</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="学生">学生</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/student-developer-program" title="新的“学生概述”页面">新的“学生概述”页面</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="http://blogs.msdn.com/b/microsoft_student_developer_blog" title="博客">博客</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/microsoftstudentpartners" title="Microsoft Student Partners">Microsoft Student Partners</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="架构师">架构师</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-blueprints-msdn" title="蓝图">蓝图</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-case-studies-msdn" title="案例研究">案例研究</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/architects-overview-msdn" title="概述">概述</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://events.msdn.microsoft.com/zh-cn" title="本地活动">本地活动</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive toggle">
+                                            <a href="javascript:void(0)" title="MSDN 订阅">MSDN 订阅</a>
+
+                                                <ul class="navL3" style="display: none;">
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/msdn-subscriptions-overview" title="Overview">Overview</a>
+                                                        </li>
+                                                        <li class="inactive">
+                                                            <a href="https://msdn.microsoft.com/benefits-overview" title="Benefits">Benefits</a>
+                                                        </li>
+                                                </ul>
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive toggle">
+                            <a href="javascript:void(0)" title="社区">社区</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive">
+                                            <a href="https://social.msdn.microsoft.com/forums/" title="论坛">论坛</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://blogs.msdn.com/b/developer-tools/" title="博客">博客</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://tech-advisors.msdn.microsoft.com/zh-cn" title="技术顾问">技术顾问</a>
+
+                                                   
+                                        </li>
+                                        <li class="inactive">
+                                            <a href="http://channel9.msdn.com/" title="第 9 频道">第 9 频道</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive current toggle">
+                            <a href="javascript:void(0)" title="文档">文档</a>
+                                <ul class="navL2" style="display: none;">
+                                        <li class="inactive current">
+                                            <a href="https://msdn.microsoft.com/library" title="APIs and reference">APIs and reference</a>
+
+                                                   
+                                        </li>
+                                </ul>
+                        </li>
+                        <li class="inactive">
+                            <a href="https://code.msdn.microsoft.com/" title="示例代码">示例代码</a>
+                        </li>
+            </ul>
+        </nav>
+
+                  </div>
+                </div>
+              </div>
+              <div class="right">
+                <div data-fragmentname="SearchBox" id="Fragment_SearchBox" xmlns="http://www.w3.org/1999/xhtml">
+  <div class="SearchBox">
+    <form id="HeaderSearchForm" name="HeaderSearchForm" method="get" class="SearchBoxOnFocus">
+      <button id="FakeHeaderSearchButton" value="Search" type="submit" class="header-search-button">
+        <div id="search-finder" class="search-finder"></div>
+      </button>
+      <button id="HeaderSearchButton" style="display:none" title="搜索 MSDN"></button>
+      <div id="searchSplitter"></div>
+      <div id="searchCloseIcon" class="search-clear-x"></div>
+      <div id="searchTextContainer" style="width: 0px; display: none;">
+        <input id="HeaderSearchTextBox" name="query" type="text" maxlength="200" onfocus="Epx.Controls.SearchBox.watermarkFocus(event, this.title)" onblur="Epx.Controls.SearchBox.watermarkBlur(event, this.title)" autocomplete="off">
+      <div id="SearchFlyoutContainer" style="display: none; text-align: left; border: 1px solid buttonshadow; position: absolute; z-index: 1000; padding: 2px; background-color: rgb(255, 255, 255); color: rgb(255, 255, 255); font-family: &#39;Microsoft YaHei UI&#39;, &#39;Microsoft YaHei&#39;, SimSun, &#39;Segoe UI&#39;, &#39;Lucida Grande&#39;, Verdana, Arial, Helvetica, sans-serif; font-size: 16px;"><div id="SuggestionContainer"><ul style="list-style: none; padding: 4px 2px 0px 1px; cursor: pointer; margin: 1px; white-space: nowrap;"></ul></div></div></div>
+    </form>
+    
+    
+  </div>
+</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </header>
+
+    <div id="overlayMaskHeader"></div></div>
+    
+    
+
+        
+    <div class="printExportMenus ltr">
+        <a id="isd_printABook" href="https://msdn.microsoft.com/zh-cn/library/export/help/?returnUrl=%2fzh-cn%2flibrary%2fms745195.aspx%3fcs-save-lang%3d1%26cs-lang%3dvb" style="display: inline;">
+            导出 (<span class="count">0</span>)
+        </a>
+        <a id="isd_print" href="https://msdn.microsoft.com/zh-cn/library/ms745195(d=printer).aspx?cs-save-lang=1&cs-lang=vb" rel="nofollow">
+            打印
+        </a>
+    </div>
+    
+
+        <div class="printExportMenus ltr">
+        <a id="expandCollapseAll" accesskey="e" href="javascript:void(0)" title="Expand/Collapse all sections by pressing Ctrl + Shift + e">全部折叠</a>
+    </div>
+
+    
+
+
+            <div id="body">
+                
+
+
+
+
+
+
+
+
+    <div id="leftNav" style="width: 280px; max-width: 480px; min-height: 1153px; height: auto;">
+
+
+
+
+<div id="tocnav" class="" style="">
+
+
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/ms123401.aspx" id="ms310241_MSDN.10_zh-cn" mtpsaliasid="" mtpsassetid="5DDC0A78-6B2C-43E3-9C56-55F45C0DFFA5_MSDN.10_zh-cn" mtpsshortid="ms123401_MSDN.10_zh-cn" title="MSDN Library">MSDN Library</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/aa139615.aspx" id="aa139615_MSDN.10_zh-cn" mtpsaliasid="" mtpsassetid="MSDN|netdev|$\netdev.hxt@0,0_MSDN.10_zh-cn" mtpsshortid="aa139615_MSDN.10_zh-cn" title=".NET 开发">.NET 开发</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/w0x726c2(v=vs.110).aspx" id="hh201723_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="f61f02f2-2f20-483d-8f56-a9c8f3a54986_VS.110_zh-cn" mtpsshortid="w0x726c2_VS.110_zh-cn" title=".NET Framework 4.5">.NET Framework 4.5</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/hh156542(v=vs.110).aspx" id="hh201724_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="26e3d285-24c3-435c-a797-9fe5affb8525_VS.110_zh-cn" mtpsshortid="hh156542_VS.110_zh-cn" title=".NET Framework 开发指南">.NET Framework 开发指南</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/54xbah2z(v=vs.110).aspx" id="hh201731_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="2dfb50b7-5af2-4e12-9bbb-c5ade0e39a68_VS.110_zh-cn" mtpsshortid="54xbah2z_VS.110_zh-cn" title="开发客户端应用程序">开发客户端应用程序</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/ms754130(v=vs.110).aspx" id="ms768637_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="f667bd15-2134-41e9-b4af-5ced6fafab5d_VS.110_zh-cn" mtpsshortid="ms754130_VS.110_zh-cn" title="Windows Presentation Foundation">Windows Presentation Foundation</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/ms742562(v=vs.110).aspx" id="ms770966_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="1817d9dc-3d6c-46cb-afc8-63b0bae35e37_VS.110_zh-cn" mtpsshortid="ms742562_VS.110_zh-cn" title="图形和多媒体">图形和多媒体</a>            </div>
+            <div class="toclevel0 " data-toclevel="0" style="padding-left: 0px;">
+<a class="toc_collapsed" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/ms747437(v=vs.110).aspx" id="hh201837_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="67f31ed4-e36b-4b02-9889-dcce245d7afc_VS.110_zh-cn" mtpsshortid="ms747437_VS.110_zh-cn" title="三维图形概述">三维图形概述</a>            </div>
+            <div class="toclevel1 " data-toclevel="1" data-childrenloaded="true" style="padding-left: 17px;">
+<a class="toc_expanded" href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#"></a><a data-tochassubtree="true" href="https://msdn.microsoft.com/zh-cn/library/ms746607(v=vs.110).aspx" id="hh201838_VS.110_zh-cn" mtpsaliasid="" mtpsassetid="4f091835-28d1-498c-b660-9b3acf34ed13_VS.110_zh-cn" mtpsshortid="ms746607_VS.110_zh-cn" title="三维图形帮助主题">三维图形帮助主题</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms752082(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：创建三维场景">如何：创建三维场景</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms747448(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：向三维模型应用绘图">如何：向三维模型应用绘图</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms753276(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：向三维对象的正面和背面应用 Material">如何：向三维对象的正面和背面应用 Material</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms754259(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：向三维对象应用放射材质">如何：向三维对象应用放射材质</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms754065(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：变换三维模型的比例">如何：变换三维模型的比例</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms752358(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：向三维模型应用多个变换">如何：向三维模型应用多个变换</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms753143(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：对三维平移进行动画处理">如何：对三维平移进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms742527(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用演示图板对三维旋转进行动画处理">如何：使用演示图板对三维旋转进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms752064(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用 Rotation3DAnimation 对三维旋转进行动画处理">如何：使用 Rotation3DAnimation 对三维旋转进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms752083(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用四元数对三维旋转进行动画处理">如何：使用四元数对三维旋转进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms748818(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用关键帧对三维旋转进行动画处理">如何：使用关键帧对三维旋转进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms742206(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用关键帧对三维旋转进行动画处理 (QuaternionAnimationUsingKeyFrames)">如何：使用关键帧对三维旋转进行动画处理 (QuaternionAnimationUsingKeyFrames)</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms745673(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：在三维场景中对照相机位置和方向进行动画处理">如何：在三维场景中对照相机位置和方向进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms746859(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：使用关键帧对照相机位置和方向进行动画处理">如何：使用关键帧对照相机位置和方向进行动画处理</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms743395(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：对三维场景中的材质属性进行动画处理">如何：对三维场景中的材质属性进行动画处理</a>            </div>
+            <div class="toclevel2 current " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms745195(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：在 Viewport3D 中进行命中测试">如何：在 Viewport3D 中进行命中测试</a>            </div>
+            <div class="toclevel2 " data-toclevel="2" style="padding-left: 34px;">
+<span class="toc_empty"></span><a href="https://msdn.microsoft.com/zh-cn/library/ms753319(v=vs.110).aspx" mtpsaliasid="" mtpsassetid="" mtpsshortid="" title="如何：测试 Point4D 结构是否相等和不相等">如何：测试 Point4D 结构是否相等和不相等</a>            </div>
+</div>
+        
+
+        
+
+        
+        
+        <div id="toc-resizable-ew" class="toc-resizable-ew"></div>
+        
+
+<a id="NavigationResize" href="javascript:void(0)" style="left: 280px; display: inline-block;">
+    <img class="cl_nav_resize_open" src="./如何：在 Viewport3D 中进行命中测试_files/ImageSprite.png" title="展开" alt="展开" style="">
+    <img class="cl_nav_resize_close" src="./如何：在 Viewport3D 中进行命中测试_files/ImageSprite.png" title="最小化" alt="最小化" style="display: none;">
+</a>
+
+
+
+    </div>
+<div id="content" class="content" style="margin-left: 280px; width: auto;">
+
+
+
+<div id="MTPSTranslator" class="MTPSTranslator">
+    <table class="MTPSTranslatorTable" style="width: 100%">
+        <tbody><tr>
+            <td class="TranslationAlertBox">
+                <div>此文章由机器翻译。 将光标移到文章的句子上，以查看原文。 <a href="https://msdn.microsoft.com/translate/hh856053">更多信息。</a></div>
+            </td>
+                <td class="TranslationViewSwitcher">
+                    <div>
+                        <input title="显示译文" value="0" name="TrnaslatorView" type="radio" class="translatechoice" checked="checked"><span>译文</span>
+                    </div>
+                    <div>
+                        <input title="显示英文" value="1" name="TrnaslatorView" type="radio" class="translatechoice"><span>原文</span>
+                    </div>
+                </td>
+        </tr>
+    </tbody></table>
+</div>
+    
+    
+    
+     
+
+
+
+
+
+
+        
+
+<div class="topic" xmlns="http://www.w3.org/1999/xhtml">
+  <h1 class="title">如何：在 Viewport3D 中进行命中测试</h1>
+  
+  <div class="lw_vs">
+    <div id="curversion">
+      <strong>
+            .NET Framework 4.6 and 4.5
+        </strong>
+    </div>
+    <div id="versionclick">
+      <div id="vsseperator" class="cl_lw_vs_seperator"></div>
+      <div>
+        <div>
+          <a id="vsLink" href="javascript:;">
+                        其他版本
+                    </a>
+        </div>
+        <div class="cl_vs_arrow clip10x10">
+          <img class="cl_lw_vs_arrow" id="vsArrow" alt="" src="./如何：在 Viewport3D 中进行命中测试_files/ImageSprite.png">
+        </div>
+      </div>
+      <ul id="vsPanel" style="display: none;">
+        <li>
+          <a href="https://msdn.microsoft.com/zh-cn/library/ms745195(v=vs.100).aspx">.NET Framework 4</a>
+        </li>
+        <li>
+          <a href="https://msdn.microsoft.com/zh-cn/library/ms745195(v=vs.90).aspx">.NET Framework 3.5</a>
+        </li>
+        <li>
+          <a href="https://msdn.microsoft.com/zh-cn/library/ms745195(v=vs.85).aspx">.NET Framework 3.0</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div style="clear:both;"></div>
+  
+  <div id="mainSection">
+    <div id="mainBody">
+      <p>
+        
+      </p>
+      <div class="introduction">
+        <p>
+          <span id="mt1" class="sentence" data-guid="2ebdb38a80f13f484e34232034048fe3" data-source="This example shows how to hit test for 3D Visuals in a &lt;span&gt;&lt;span class=&quot;mtpsTagOuterHtml&quot; &gt;&lt;span&gt;Viewport3D&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.  " xml:space="preserve">
+            <sentencetext xmlns="http://www.w3.org/1999/xhtml">此示例演示如何为 <span xmlns="http://www.w3.org/1999/xhtml"><a href="https://msdn.microsoft.com/zh-cn/library/system.windows.controls.viewport3d.aspx">Viewport3D</a></span> 中的三维视觉效果进行命中测试。</sentencetext>
+          </span>
+        </p>
+        <p>
+          <span id="mt2" class="sentence" data-guid="e6ce520839c92c42c08b736b1d15d013" data-source="Because &lt;span&gt;&lt;span class=&quot;mtpsTagOuterHtml&quot; &gt;&lt;span&gt;HitTest&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; returns 2D and 3D information, it is possible to iterate through the test results to read only 3D results.  " xml:space="preserve">
+            <sentencetext xmlns="http://www.w3.org/1999/xhtml">由于 <span xmlns="http://www.w3.org/1999/xhtml"><a href="https://msdn.microsoft.com/zh-cn/library/system.windows.media.visualtreehelper.hittest.aspx">HitTest</a></span> 会返回二维和三维信息，所以通过循环访问测试结果以便仅读取三维结果是可能的。</sentencetext>
+          </span>
+        </p>
+        <div id="snippetGroup">
+<div id="code-snippet-1" class="codeSnippetContainer" xmlns="">
+    <div class="codeSnippetContainerTabs">
+        <div class="codeSnippetContainerTab" dir="ltr"><a href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-1">C#</a></div><div class="codeSnippetContainerTabActive" dir="ltr"><a>VB</a></div>
+    </div>
+    <div class="codeSnippetContainerCodeContainer">
+        <div class="codeSnippetToolBar">
+            <div class="codeSnippetToolBarText">
+                <a name="CodeSnippetCopyLink" style="display: none;" title="复制到剪贴板。" href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_42c1af4c-692b-413f-a694-1dca482fa306');">复制</a>
+            </div>
+        </div>
+        <div id="CodeSnippetContainerCode_42c1af4c-692b-413f-a694-1dca482fa306" class="codeSnippetContainerCode" dir="ltr">
+            <div style="color:Black;"><pre>
+		<span style="color:Blue;">Public</span> <span style="color:Blue;">Sub</span> HitTest(<span style="color:Blue;">ByVal</span> sender <span style="color:Blue;">As</span> <span style="color:Blue;">Object</span>, <span style="color:Blue;">ByVal</span> args <span style="color:Blue;">As</span> MouseButtonEventArgs)
+			<span style="color:Blue;">Dim</span> mouseposition <span style="color:Blue;">As</span> Point = args.GetPosition(myViewport)
+			<span style="color:Blue;">Dim</span> testpoint3D <span style="color:Blue;">As</span> <span style="color:Blue;">New</span> Point3D(mouseposition.X, mouseposition.Y, 0)
+			<span style="color:Blue;">Dim</span> testdirection <span style="color:Blue;">As</span> <span style="color:Blue;">New</span> Vector3D(mouseposition.X, mouseposition.Y, 10)
+			<span style="color:Blue;">Dim</span> pointparams <span style="color:Blue;">As</span> <span style="color:Blue;">New</span> PointHitTestParameters(mouseposition)
+			<span style="color:Blue;">Dim</span> rayparams <span style="color:Blue;">As</span> <span style="color:Blue;">New</span> RayHitTestParameters(testpoint3D, testdirection)
+
+			<span style="color:Green;">'test for a result in the Viewport3D</span>
+			VisualTreeHelper.HitTest(myViewport, <span style="color:Blue;">Nothing</span>, <span style="color:Blue;">AddressOf</span> HTResult, pointparams)
+
+
+</pre></div>
+            
+        </div>
+    </div>
+</div>
+</div>
+        <p>
+          <span id="mt3" class="sentence" data-guid="89681dbab95e52ad24120a184f44440d" data-source="The &lt;span&gt;&lt;span class=&quot;mtpsTagOuterHtml&quot; &gt;&lt;span&gt;HitTestResultBehavior&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; in the following code determines how the hit test results are processed." xml:space="preserve">
+            <sentencetext xmlns="http://www.w3.org/1999/xhtml">以下代码中的 <span xmlns="http://www.w3.org/1999/xhtml"><a href="https://msdn.microsoft.com/zh-cn/library/system.windows.media.hittestresultbehavior.aspx">HitTestResultBehavior</a></span> 确定如何处理命中测试结果。</sentencetext>
+          </span>  <span id="mt4" class="sentence" data-guid="e1b1140c1fad7bbe700b917a2d617140" data-source="&lt;span class=&quot;code&quot;&gt;UpdateResultInfo&lt;/span&gt; and &lt;span class=&quot;code&quot;&gt;UpdateMaterial&lt;/span&gt; are locally defined methods." xml:space="preserve"><sentencetext xmlns="http://www.w3.org/1999/xhtml">
+  <span class="code" xmlns="http://www.w3.org/1999/xhtml">UpdateResultInfo</span> 和 <span class="code" xmlns="http://www.w3.org/1999/xhtml">UpdateMaterial</span> 是本地定义的方法。</sentencetext></span>  </p>
+        <div id="snippetGroup1">
+<div id="code-snippet-2" class="codeSnippetContainer" xmlns="">
+    <div class="codeSnippetContainerTabs">
+        <div class="codeSnippetContainerTab" dir="ltr"><a href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-2">C#</a></div><div class="codeSnippetContainerTabActive" dir="ltr"><a>VB</a></div>
+    </div>
+    <div class="codeSnippetContainerCodeContainer">
+        <div class="codeSnippetToolBar">
+            <div class="codeSnippetToolBarText">
+                <a name="CodeSnippetCopyLink" style="display: none;" title="复制到剪贴板。" href="javascript:if (window.epx.codeSnippet)window.epx.codeSnippet.copyCode('CodeSnippetContainerCode_1ce5b1cb-2cc8-4115-a8ca-033fee57b534');">复制</a>
+            </div>
+        </div>
+        <div id="CodeSnippetContainerCode_1ce5b1cb-2cc8-4115-a8ca-033fee57b534" class="codeSnippetContainerCode" dir="ltr">
+            <div style="color:Black;"><pre>
+		<span style="color:Blue;">Public</span> <span style="color:Blue;">Function</span> HTResult(<span style="color:Blue;">ByVal</span> rawresult <span style="color:Blue;">As</span> HitTestResult) <span style="color:Blue;">As</span> HitTestResultBehavior
+            <span style="color:Blue;">Dim</span> rayResult <span style="color:Blue;">As</span> RayHitTestResult = TryCast(rawresult, RayHitTestResult)
+
+			<span style="color:Blue;">If</span> rayResult <span style="color:Blue;">IsNot</span> <span style="color:Blue;">Nothing</span> <span style="color:Blue;">Then</span>
+				<span style="color:Blue;">Dim</span> rayMeshResult <span style="color:Blue;">As</span> RayMeshGeometry3DHitTestResult = TryCast(rayResult, RayMeshGeometry3DHitTestResult)
+
+				<span style="color:Blue;">If</span> rayMeshResult <span style="color:Blue;">IsNot</span> <span style="color:Blue;">Nothing</span> <span style="color:Blue;">Then</span>
+					<span style="color:Blue;">Dim</span> hitgeo <span style="color:Blue;">As</span> GeometryModel3D = TryCast(rayMeshResult.ModelHit, GeometryModel3D)
+
+					UpdateResultInfo(rayMeshResult)
+					UpdateMaterial(hitgeo, (TryCast(side1GeometryModel3D.Material, MaterialGroup)))
+				<span style="color:Blue;">End</span> <span style="color:Blue;">If</span>
+			<span style="color:Blue;">End</span> <span style="color:Blue;">If</span>
+
+			<span style="color:Blue;">Return</span> HitTestResultBehavior.<span style="color:Blue;">Continue</span>
+		<span style="color:Blue;">End</span> <span style="color:Blue;">Function</span>
+
+
+</pre></div>
+            
+        </div>
+    </div>
+</div>
+</div>
+      </div>
+      <div>
+        
+        <h2 class="LW_CollapsibleArea_TitleDiv">
+          <div>
+            <a href="javascript:void(0)" class="LW_CollapsibleArea_TitleAhref" title="单击以折叠。双击以全部折叠。" role="button">
+              <span class="cl_CollapsibleArea_expanding LW_CollapsibleArea_Img"></span>
+              <span class="LW_CollapsibleArea_Title">请参见</span>
+            </a>
+            <div class="LW_CollapsibleArea_HrDiv">
+              <hr class="LW_CollapsibleArea_Hr">
+            </div>
+          </div>
+        </h2>
+        <div class="sectionblock">
+          <a id="seeAlsoToggle">
+            
+          </a>
+          <h4 class="subHeading">其他资源</h4>
+          <div class="seeAlsoStyle">
+            <a href="http://go.microsoft.com/fwlink/?LinkID=159959">3-D Hit Testing Sample</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+
+
+
+<script id="CommentTemplate" type="text/x-jquery-tmpl">
+    <div class="communityContentAnnotation">
+        <a name="${Index}"></a>
+        <h3>
+            ${Title}
+        </h3>
+        <div class="communityContentAnnotationBody">
+            {{html Body}}
+        </div>
+        <div class="communityContentAnnotationInfo">
+            <div class="communityContentAnnotationAvatarContainer">
+                <a href="${UserAvatar.Href}" title="${UserAvatar.ToolTip}" class="communityContentAnnotationAvatar"><img src="${UserAvatar.ImageUrl}" alt="${UserAvatar.ImageAltText}" width="34" height="34" /></a>
+            </div>
+            <div class="communityContentAnnotationUserDateContainer">
+                <div class="communityContentAnnotationUserContainer">
+                    <a href="${UserAvatar.Href}">
+                        ${User}
+                    </a>
+                </div>
+                <div class="communityContentAnnotationDateContainer">
+                    <span>${Date}</span>
+                    
+                    {{if EditLink}}
+                        <span>
+                            <a href="${EditLink.Href}" title="${EditLink.ToolTip}" class="communityContentCommentEditLink">${EditLink.Title}</a>
+                        </span>
+                    {{/if}}
+
+                    {{if DeleteLink}}
+                        <span>
+                            <a href="${DeleteLink.Href}" title="${DeleteLink.ToolTip}" class="communityContentDeleteLink">${DeleteLink.Title}</a>
+                        </span>
+                    {{/if}}
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<div class="communityContentContainer">
+    <div id="CommunityContentHeader" class="communityContentHeader">
+        <div class="communityContentHeaderTitleContainer">
+            <h2>社区附加资源</h2>
+                <a class="communityContentAddLink" href="https://msdn.microsoft.com/zh-cn/library/community/add/ms745195.aspx?cs-save-lang=1&cs-lang=vb">
+                    <span class="communityContentAddButton" title="添加">
+                        添加
+                    </span>
+                </a>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+    
+    <div id="CommunityComments" data-url="/zh-cn/library/community/comments/ms745195.aspx"></div>
+</div>
+
+
+
+
+<div class="libraryMemberFilter">
+    <div class="filterContainer">
+        <span>显示:</span>
+        <label>
+            <input type="checkbox" class="libraryFilterInherited" checked="checked" value="Inherit">继承
+        </label>
+        <label>
+            <input type="checkbox" class="libraryFilterProtected" checked="checked" value="Protected">保护
+        </label>
+    </div>
+</div>
+    
+<input type="hidden" id="libraryMemberFilterEmptyWarning" value="您当前的筛选设置无成员可用。">
+
+
+ 
+</div>
+
+
+            </div>
+            <div class="clear"></div>
+
+            
+    
+<input name="__RequestVerificationToken" type="hidden" value="HQRC8ayx5eorCHl7MbD5dAA0vX78d1yHz4DxbdTlaaZLf8qcQOpJBwMdD9DTAzTr3yr7ZN-4LCjsOgr53t4uK2r_Vwg1">
+<input id="ratingSubmitUrl" type="hidden" value="https://msdn.microsoft.com/zh-cn/library/feedback/add/ms745195.aspx">
+<input id="isTopicRated" type="hidden" value="false">
+
+
+    
+
+    
+    <link type="text/css" rel="stylesheet">
+    
+    <div id="ux-footer" class="" style="" dir="ltr">
+            
+            <div id="footerSock" class="librarySock">
+                <div id="footerSockInner">
+                        <a name="feedback"></a>
+
+<div class="rating">
+    <div id="ratingSection1">
+        <div class="title">
+            此页面有用吗？
+        </div>
+        <div class="description">
+            您对此内容的反馈非常重要。<br>请告诉我们您的想法。
+        </div>
+        <div class="buttons">
+            <button class="button" id="ratingYes">是</button>
+            <button class="button" id="ratingNo">否</button>
+        </div>
+        <input id="ratingValue" type="hidden" value="">
+    </div>
+    <div id="ratingSection2">
+        <div class="title">
+            更多反馈？
+        </div>
+        <textarea id="ratingText" rows="6" cols="" maxlength="1500"></textarea>
+        <div class="counter right">
+            <span id="feedbackTextCounter">1500</span> 个剩余字符
+        </div>
+        <div class="buttons left">
+            <button class="button" id="ratingSubmit">提交</button>
+            <button class="button" id="ratingSkipThis">跳过此步</button>
+        </div>
+    </div>
+    <div id="ratingSection3">
+        <div class="title">
+            谢谢！
+        </div>
+        <div class="description">
+            我们非常感谢您的反馈。
+        </div>
+    </div>
+    
+    
+    <div id="contentFeedbackQAContainer" style="display: none;"></div>
+</div>
+    
+                                        <div class="clear"></div>
+                </div>
+            </div>
+
+        <footer class="top">
+            <div data-fragmentname="LeftLinks" id="Fragment_LeftLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">开发人员中心</div>
+    <ul class="links">
+      <li>
+        <a href="https://dev.windows.com/" id="LeftLinks_2148_1" class="windowsBlue" xmlns="http://www.w3.org/1999/xhtml">Windows</a>
+      </li>
+      <li>
+        <a href="http://dev.office.com/" id="LeftLinks_2148_3" class="office" xmlns="http://www.w3.org/1999/xhtml">Office</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/vstudio" id="LeftLinks_2148_4" class="visualStudio" xmlns="http://www.w3.org/1999/xhtml">Visual Studio</a>
+      </li>
+      <li>
+        <a href="http://azure.microsoft.com/zh-cn/documentation/" target="_blank" id="LeftLinks_2148_12" xmlns="http://www.w3.org/1999/xhtml">Microsoft Azure</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/aa937802" id="LeftLinks_2148_5" xmlns="http://www.w3.org/1999/xhtml">更多...</a>
+      </li>
+    </ul>
+  </div>
+</div>    
+            <div id="rightLinks">
+                <div data-fragmentname="CenterLinks1" id="Fragment_CenterLinks1" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">学习资源</div>
+    <ul class="links">
+      <li>
+        <a href="http://www.microsoftvirtualacademy.com/" id="CenterLinks1_2151_4" xmlns="http://www.w3.org/1999/xhtml">Microsoft 虚拟学院</a>
+      </li>
+      <li>
+        <a href="http://channel9.msdn.com/" id="CenterLinks1_2151_5" xmlns="http://www.w3.org/1999/xhtml">第 9 频道</a>
+      </li>
+      <li>
+        <a href="http://www.interoperabilitybridges.com/" id="CenterLinks1_2151_6" xmlns="http://www.w3.org/1999/xhtml">互操作性桥梁</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/magazine/" id="CenterLinks1_2151_7" xmlns="http://www.w3.org/1999/xhtml">MSDN 杂志</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks2" id="Fragment_CenterLinks2" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">社区</div>
+    <ul class="links">
+      <li>
+        <a href="https://social.msdn.microsoft.com/forums/zh-cn/home" id="CenterLinks2_2151_8" xmlns="http://www.w3.org/1999/xhtml">论坛</a>
+      </li>
+      <li>
+        <a href="http://blogs.msdn.com/b/developer-tools/" id="CenterLinks2_2151_9" xmlns="http://www.w3.org/1999/xhtml">博客</a>
+      </li>
+      <li>
+        <a href="http://www.codeplex.com/" id="CenterLinks2_2151_10" xmlns="http://www.w3.org/1999/xhtml">Codeplex</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks3" id="Fragment_CenterLinks3" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <div class="linkListTitle">支持</div>
+    <ul class="links">
+      <li>
+        <a href="https://msdn.microsoft.com/hh361695" id="CenterLinks3_2151_11" xmlns="http://www.w3.org/1999/xhtml">自助支持</a>
+      </li>
+    </ul>
+  </div>
+</div>
+                <div data-fragmentname="CenterLinks4" id="Fragment_CenterLinks4" xmlns="http://www.w3.org/1999/xhtml" class="nth-child-4n">
+  
+  <div class="linkList">
+    <div class="linkListTitle">计划</div>
+    <ul class="links">
+      <li>
+        <a href="https://www.microsoft.com/bizspark/" id="CenterLinks4_2151_13" xmlns="http://www.w3.org/1999/xhtml">BizSpark（针对新创企业）</a>
+      </li>
+      <li>
+        <a href="https://www.dreamspark.com/" id="CenterLinks4_2151_14" xmlns="http://www.w3.org/1999/xhtml">DreamSpark</a>
+      </li>
+      <li>
+        <a href="http://www.imaginecup.com/" id="CenterLinks4_2151_17" xmlns="http://www.w3.org/1999/xhtml">创新杯</a>
+      </li>
+    </ul>
+  </div>
+</div>                
+            </div>
+        </footer>
+    
+        <footer class="bottom">
+            <span class="localeContainer">
+                
+    <form class="selectLocale" id="selectLocaleForm" action="https://msdn.microsoft.com/zh-cn/selectlocale-dmc">
+        <input type="hidden" name="fromPage" value="https%3a%2f%2fmsdn.microsoft.com%2fzh-cn%2flibrary%2fms745195.aspx%3fcs-save-lang%3d1%26cs-lang%3dvb">
+        <a href="https://msdn.microsoft.com/zh-cn/library/ms745195.aspx?cs-save-lang=1&cs-lang=vb#" onclick="$(&#39;#selectLocaleForm&#39;).submit();return false;" title="更改您的语言">中国 (简体中文)</a>
+    </form>
+
+
+            </span>
+        
+            <div data-fragmentname="BottomLinks" id="Fragment_BottomLinks" xmlns="http://www.w3.org/1999/xhtml">
+  
+  <div class="linkList">
+    <ul class="links horizontal">
+      <li>
+        <a href="https://msdn.microsoft.com/newsletter.aspx" id="BottomLinks_2148_7" xmlns="http://www.w3.org/1999/xhtml">新闻稿</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/dn529288" id="BottomLinks_2148_8" xmlns="http://www.w3.org/1999/xhtml">隐私&amp; Cookie</a>
+      </li>
+      <li>
+        <a href="https://msdn.microsoft.com/cc300389" id="BottomLinks_2148_9" xmlns="http://www.w3.org/1999/xhtml">使用条款</a>
+      </li>
+      <li>
+        <a href="https://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/EN-US.aspx" id="BottomLinks_2148_10" xmlns="http://www.w3.org/1999/xhtml">商标</a>
+      </li>
+    </ul>
+  </div>
+</div>    
+            <span class="logoLegal">
+                <span class="logo"></span>
+                <span class="copyright">© 2015 Microsoft</span>
+            </span>
+        </footer>
+    </div>
+    
+
+
+            <div class="footerPrintView">
+                <div class="footerCopyrightPrintView">© 2015 Microsoft</div>
+            </div>
+
+            
+            
+    
+    
+    <input id="tocPaddingPerLevel" type="hidden" value="17">
+
+
+
+            <input id="MtpsDevice" type="hidden" value="Default">
+
+
+<!--[CDATA[ Third party scripts and code linked to or referenced from this website are licensed to you by the parties that own such code, not by Microsoft.  See ASP.NET Ajax CDN Terms of Use – http://www.asp.net/ajaxlibrary/CDN.ashx. ]]-->
+
+            
+            
+            
+            
+            
+
+
+
+
+
+
+<noscript>&lt;div&gt;&lt;img alt="DCSIMG" id="Img1" width="1" height="1" src="https://m.webtrends.com/dcsmgru7m99k7mqmgrhudo0k8_8c6m/njs.gif?dcsuri=/nojavascript&amp;amp;WT.js=No" /&gt;&lt;/div&gt;</noscript>
+
+
+
+
+
+
+
+
+
+<noscript>
+  &lt;a href="http://www.omniture.com" title="Web Analytics"&gt;
+    &lt;img src="//msstonojsmsdn.112.2o7.net/b/ss/msstonojsmsdn/1/H.20.2--NS/0" height="1" width="1" border="0" alt="" /&gt;
+  &lt;/a&gt;
+</noscript>
+            
+
+
+
+
+<div id="globalRequestVerification">
+    <input name="__RequestVerificationToken" type="hidden" value="3wI3nOK2OEbLZGeXHMoQQYG0p105V6cqECPJm5JDoRZpdZMCHfOss3XeeeOKtSvnwVNY6FO9nNZYiX1NVrZpsvqtR9M1">
+</div>
+
+
+        </div>
+
+        
+        
+        
+        
+    <script type="text/javascript" class="mtps-injected">
+/*<![CDATA[*/
+(function(window,document){"use strict";function preload(scripts){for(var result=[],script,e,i=0;i<scripts.length;i++)script=scripts[i],script.hasOwnProperty("url")&&(e=document.createElement("script"),e.src=script.url,script.throwaway=e),result.push(script);return result}function inject(scripts,index){var script,elem;if(index>=scripts.length){delete mtps.injectScripts;return}script=scripts[index];elem=document.createElement("script");elem.className="mtps-injected";elem.async=!1;var isLoaded=!1,timeoutId=0,injectNextFnName="",injectNext=elem.onerror=function(){isLoaded||(isLoaded=!0,inject(scripts,index+1),window.clearTimeout(timeoutId),elem.onload=elem.onerror=elem.onreadystatechange=null,injectNextFnName&&delete mtps[injectNextFnName],elem.removeEventListener&&elem.removeEventListener("load",injectNext,!1))};elem.addEventListener?elem.addEventListener("load",injectNext,!1):elem.readyState==="uninitialized"?elem.onreadystatechange=function(){(this.readyState==="loaded"||this.readyState==="complete")&&injectNext()}:elem.onload=injectNext;script.hasOwnProperty("url")?(timeoutId=window.setTimeout(injectNext,12e4),elem.src=script.url):(injectNextFnName="_injectNextScript_"+index,mtps[injectNextFnName]=injectNext,timeoutId=window.setTimeout(injectNext,2e3),elem.text="try {\n"+script.txt+"\n} finally { MTPS."+injectNextFnName+" && MTPS."+injectNextFnName+"(); }");parent.appendChild(elem)}var mtps=window.MTPS||(window.MTPS={}),parent=document.getElementsByTagName("head")[0];mtps.injectScripts=function(scripts){inject(preload(scripts),0)}})(window,document);
+MTPS.injectScripts([
+	{ txt: "/**/\r\n(window.MTPS || (window.MTPS = {})).cdnDomains || (window.MTPS.cdnDomains = { \r\n\t\"image\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"js\": \"https://i2-msdn.sec.s-msft.com\", \r\n\t\"css\": \"https://i-msdn.sec.s-msft.com\", \r\n\t\"xap\": \"https://msdn.microsoft.com\"\r\n});\r\n/**/" },
+	{ url: "https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.2.min.js" },
+	{ txt: "//\n  var literalNormalizedUrl = \u0027/zh-cn/library/ms745195(l=zh-cn,v=vs.110).aspx\u0027;\n  var wt_nvr_ru = \u0027WT_NVR_RU\u0027;\n  var wt_fpcdom = \u0027.microsoft.com\u0027;\n  var wt_domlist = \u0027msdn.microsoft.com\u0027;\n  var wt_pathlist = \u0027\u0027;\n  var wt_paramlist = \u0027DCSext.mtps_devcenter\u0027;\n  var wt_siteid = \u0027MSDN\u0027;\n  var gDomain = \u0027m.webtrends.com\u0027;\n  var gDcsId = \u0027dcsmgru7m99k7mqmgrhudo0k8_8c6m\u0027;\n  var gFpc = \u0027WT_FPC\u0027;\n\n\n\n  if (document.cookie.indexOf(gFpc + \"=\") == -1) {\n    var wtidJs = document.createElement(\"script\");\n    wtidJs.src = \"//\" + gDomain + \"/\" + gDcsId + \"/wtid.js\";\n    document.getElementsByTagName(\"head\")[0].appendChild(wtidJs);\n  }\n\n\n\n  var detectedLocale = \u0027zh-cn\u0027;\n  var wtsp = \u0027msdnlib_dotnet\u0027;\n  var gTrackEvents = \u00270\u0027;\n/**/" },
+	{ txt: "/**/\n  var omni_guid = \"ebf9ac64-c5d4-4079-b1b9-1cb23deb646a\";\n/**/" },
+	{ txt: "//\n\n            window.appInsightsId = \u002760854590-027a-4ae4-98be-2741a40f355f\u0027;\n            //" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:Utilities,1:Layout,2:Header,1:Rating,2:Footer,0:Topic,3:webtrendsscript,4:omni_rsid_MSDN,5:WEDCS,0:AppInsightsPerf,6:Toc,1:SearchBox;/Areas/Epx/Content/Scripts:0,/Areas/Epx/Themes/Base/Content:1,/Areas/Centers/Themes/StandardDevCenter/Content:2,/Areas/Global/Content/Webtrends/resources:3,/Areas/Global/Content/Omniture/resources/MSDN:4,/Areas/Library/Themes/Base/Content:5,/Areas/Library/Content:6\u0026amp;hashKey=C75103DA1771CBC9E3A0EE78FD33B307\u0026amp;v=928DCC885E78E25F29AEF690FF6426C1" },
+	{ url: "https://i1.services.social.microsoft.com/search/Widgets/SearchBox.jss?boxid=HeaderSearchTextBox\u0026btnid=HeaderSearchButton\u0026brand=Msdn\u0026loc=zh-cn\u0026focusOnInit=false\u0026emptyWatermark=true\u0026searchButtonTooltip=搜索 MSDN" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:PrintExportButton,1:NavigationResize;/Areas/Library/Themes/Base/Content:0,/Areas/Library/Content:1\u0026amp;hashKey=72684789A0F98A77C33C1AC3470E9ECF\u0026amp;v=928DCC885E78E25F29AEF690FF6426C1" },
+	{ txt: "//\n    MTPS = window.MTPS || {};\n    MTPS.Translation = window.MTPS.Translation || {};\n\n    MTPS.Translation.TranslationType =  0;\n    \n    \n        \n        MTPS.Translation.EditorLink = {\n            includeEditor : 0,\n            editLink: \"https://msdn.microsoft.com/zh-cn/library/translation/edit/ms745195.aspx\",\n            editLinkText: \"建议更好的翻译\"\n        };\n        \n    //" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:jquery.popup,0:Translator;/Areas/Library/Content:0\u0026amp;hashKey=3B656D983EF24EC5D2C54AB67215CFD7\u0026amp;v=928DCC885E78E25F29AEF690FF6426C1" },
+	{ txt: "MTPS = window.MTPS || {}; MTPS.LocalizedStrings = window.MTPS.LocalizedStrings || {}; MTPS.LocalizedStrings.ExpandButtonTooltip = \u0027展开\u0027; MTPS.LocalizedStrings.CollapseButtonTooltip = \u0027折叠\u0027; MTPS.LocalizedStrings.EnhancedExpandTooltip = \u0027单击以展开。双击以全部展开。\u0027; MTPS.LocalizedStrings.EnhancedCollapseTooltip = \u0027单击以折叠。双击以全部折叠。\u0027; MTPS.LocalizedStrings.ExpandAllButtonTooltip = \u0027全部展开\u0027; MTPS.LocalizedStrings.CollapseAllButtonTooltip = \u0027全部折叠\u0027;" },
+	{ url: "https://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js" },
+	{ url: "https://i2-msdn.sec.s-msft.com/Combined.js?resources=0:CommunityContent,0:LibraryMemberFilter,1:Toc_Fixed,1:CodeSnippet,1:TopicNotInScope,1:CollapsibleArea,1:VersionSelector,1:SurveyBroker;/Areas/Library/Content:0,/Areas/Epx/Content/Scripts:1\u0026amp;hashKey=EB298C838117D9E7008C7CC11E7732E3\u0026amp;v=928DCC885E78E25F29AEF690FF6426C1" },
+	{ txt: "$(document).ready(function() {\n        try {\n            var token = $(\"#globalRequestVerification input[name=\u0027__RequestVerificationToken\u0027]\").clone();\n            $(\"#siteFeedbackForm\").append(token);\n        } catch(err) {\n            \n        }\n    });" }
+]);
+
+/*]]>*/
+</script>
+<script src="./如何：在 Viewport3D 中进行命中测试_files/broker-config.js"></script><div id="overlayMask"></div><div id="popup-loading0" class="popup-loading" style="display: none; z-index: 97; width: auto; height: auto; left: 312px; top: 230px;">loading...</div><div id="popup0" class="MTPopup" style="z-index: 97; width: auto; height: auto; max-width: 380px; left: 312px; top: 230px; display: none;"><div class="popup-main" style="z-index: 97;"><div class="popup-inner">This example shows how to hit test for 3D Visuals in a <span><span class="mtpsTagOuterHtml"><span>Viewport3D</span></span></span>.  <div class="EditTranslation"><a href="https://msdn.microsoft.com/zh-cn/library/translation/edit/ms745195.aspx?sentenceGuid=2ebdb38a80f13f484e34232034048fe3">建议更好的翻译</a></div></div></div></div></body></html>

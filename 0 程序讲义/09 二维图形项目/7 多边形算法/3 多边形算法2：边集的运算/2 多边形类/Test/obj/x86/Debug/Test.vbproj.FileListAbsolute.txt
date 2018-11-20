@@ -1,0 +1,29 @@
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\Test\bin\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.frmTest.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.exe
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.xml
+C:\Users\admin\AppData\Local\Temporary Projects\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 开发项目\3 二维图形\5 多边形膨胀\2 多边形类\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\bin\Debug\Test.exe
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\bin\Debug\Test.pdb
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\bin\Debug\Test.xml
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\09 二维图形项目\7 多边形算法\6 多边形算法2：边集的运算\2 多边形类\Test\obj\x86\Debug\GenerateResource.write.1.tlog

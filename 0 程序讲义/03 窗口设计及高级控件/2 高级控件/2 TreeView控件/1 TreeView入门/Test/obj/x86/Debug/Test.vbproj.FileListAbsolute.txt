@@ -1,0 +1,70 @@
+F:\0002\UI\Test\Test\bin\Debug\Test.exe
+F:\0002\UI\Test\Test\bin\Debug\Test.pdb
+F:\0002\UI\Test\Test\bin\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\Test\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.exe
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.pdb
+F:\0002\UI\1 文件名的基本信息\Test\bin\Debug\Test.xml
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\1 文件名的基本信息\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.exe
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.xml
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.pdb
+F:\0002\UI\6 TreeView控件\Test\bin\Debug\Test.exe
+F:\0002\UI\6 TreeView控件\Test\bin\Debug\Test.pdb
+F:\0002\UI\6 TreeView控件\Test\bin\Debug\Test.xml
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\UI\6 TreeView控件\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\1 资源管理器\6 TreeView控件\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\1 资源管理器\6 TreeView控件\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\1 资源管理器\6 TreeView控件\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 资源管理器（进阶）\6 TreeView控件\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 资源管理器（进阶）\6 TreeView控件\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 资源管理器（进阶）\6 TreeView控件\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView控件\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView控件\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView控件\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.pdb
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\bin\Debug\Test.exe
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\bin\Debug\Test.pdb
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\bin\Debug\Test.xml
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.frmTest.resources
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.Resources.resources
+F:\0002\0000讲义\3 TreeView和ListView\3 TreeView入门\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.exe
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.xml
+F:\0002\0000讲义\2 TreeView和ListView和文件管理器\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.exe
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.xml
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.pdb
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.exe
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.pdb
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.xml
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.frmTest.resources
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.Resources.resources
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\0000讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.exe
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.exe
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.pdb
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\bin\Debug\Test.xml
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.frmTest.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\Test.Resources.resources
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\2 高级控件\2 TreeView控件\1 TreeView入门\Test\obj\x86\Debug\GenerateResource.write.1.tlog
