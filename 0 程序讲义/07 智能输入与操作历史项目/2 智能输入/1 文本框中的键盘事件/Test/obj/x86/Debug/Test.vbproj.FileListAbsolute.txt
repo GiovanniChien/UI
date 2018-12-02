@@ -31,3 +31,6 @@ F:\0002\0000讲义\4 键盘操作\1 智能输入\1 文本框中的键盘事件\T
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.exe
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.xml
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.pdb
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.exe
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.xml
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\1 文本框中的键盘事件\Test\obj\x86\Debug\Test.pdb

@@ -62,3 +62,5 @@ F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\
 F:\0002\0000讲义\4 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.xml
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.xml
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb
