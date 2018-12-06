@@ -12,3 +12,12 @@ F:\Oliver_Git\UI\2018-11-29\Test\Test\obj\x86\Debug\Test.pdb
 F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.exe
 F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.xml
 F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.pdb
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\bin\Debug\Test.exe
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\bin\Debug\Test.pdb
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\bin\Debug\Test.xml
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Oliver_Git\UI\2018-11-29\2 词库类\Test\obj\x86\Debug\GenerateResource.write.1.tlog

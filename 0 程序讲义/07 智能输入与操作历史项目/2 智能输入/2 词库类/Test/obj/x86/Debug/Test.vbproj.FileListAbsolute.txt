@@ -64,3 +64,13 @@ F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test
 F:\0002\0000讲义\3 开发项目\1 键盘操作\1 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb
 F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.xml
 F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.pdb
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\bin\Debug\Test.exe
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\bin\Debug\Test.pdb
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\bin\Debug\Test.xml
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.frmListBox.resources
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.frmTest.resources
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.Resources.resources
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Oliver_Git\UI\0 程序讲义\07 智能输入与操作历史项目\2 智能输入\2 词库类\Test\obj\x86\Debug\Test.exe
