@@ -40,7 +40,7 @@ Public Class ClsLblSugs
                 numCanUse(i - 1) = False
                 Continue For
             End If
-            If numInBlock(i, Index) Then
+            If numInBlock(i, index) Then
                 numCanUse(i - 1) = False
                 Continue For
             End If

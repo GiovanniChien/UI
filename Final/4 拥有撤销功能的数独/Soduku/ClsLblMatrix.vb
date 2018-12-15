@@ -1,5 +1,4 @@
-﻿
-Public Class ClsLblMatrix
+﻿Public Class ClsLblMatrix
     Private Const row As Integer = 9
     Private Const col As Integer = 9
     Private Const delta As Integer = 20
@@ -17,9 +16,12 @@ Public Class ClsLblMatrix
         For i = 0 To 8
             For j = 0 To 8
                 Me.numMatrix(i, j) = numMatrix.GetWaitSolveMatrix(i, j)
-                originalMatrix(i, j) = waitSolveMatrix(i, j) = numMatrix.GetWaitSolveMatrix(i, j)
+                originalMatrix(i, j) = numMatrix.GetWaitSolveMatrix(i, j)
+                waitSolveMatrix(i, j) = numMatrix.GetWaitSolveMatrix(i, j)
             Next
         Next
+        'originalMatrix = Me.numMatrix
+        'waitSolveMatrix = Me.numMatrix
         '画标签矩阵的边框
         AddHandler picLblMatrix.Paint, AddressOf picLblMatrix_Paint
         InitLbls()
