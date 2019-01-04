@@ -34,3 +34,14 @@ F:\0002\0000讲义\1 系统资源\2 系统性能\3 CPU的内存计数器\Test\bi
 F:\0002\0000讲义\1 系统资源\2 系统性能\3 CPU的内存计数器\Test\obj\x86\Debug\Test.frmTest.resources
 F:\0002\0000讲义\1 系统资源\2 系统性能\3 CPU的内存计数器\Test\obj\x86\Debug\Test.Resources.resources
 F:\0002\0000讲义\1 系统资源\2 系统性能\3 CPU的内存计数器\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\bin\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\bin\Debug\Test.pdb
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\bin\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.frmTest.resources
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.Resources.resources
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\01 系统资源\4 性能计数器\2 内存性能计数器（测试版）\Test\obj\x86\Debug\Test.pdb

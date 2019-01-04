@@ -48,3 +48,15 @@ F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\
 F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.frmParent.resources
 F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.Resources.resources
 F:\0002\0000讲义\2 开发环境\4 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.pdb
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\bin\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.frmChild.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.frmParent.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.Resources.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\2 菜单状态栏\Test\obj\x86\Debug\Test.pdb

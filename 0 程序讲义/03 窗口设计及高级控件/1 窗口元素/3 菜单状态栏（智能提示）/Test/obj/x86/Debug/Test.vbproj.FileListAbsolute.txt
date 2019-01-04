@@ -70,3 +70,15 @@ E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3
 E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\GenerateResource.read.1.tlog
 E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\GenerateResource.write.1.tlog
 E:\00人机交互\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.pdb
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\bin\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmChild.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.frmParent.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.Resources.resources
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.vbproj.CoreCompileInputs.cache
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\03 窗口设计及高级控件\1 窗口元素\3 菜单状态栏（智能提示）\Test\obj\x86\Debug\Test.pdb

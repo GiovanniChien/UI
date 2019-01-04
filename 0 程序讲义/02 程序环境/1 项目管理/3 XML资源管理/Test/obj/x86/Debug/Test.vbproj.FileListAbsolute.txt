@@ -46,3 +46,10 @@ F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\6 XML资源管理
 F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\6 XML资源管理\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
 F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\6 XML资源管理\Test\obj\x86\Debug\Test.exe.manifest
 F:\0002\0000讲义\2 开发环境\1 系统资源\4 My名空间\6 XML资源管理\Test\obj\x86\Debug\Test.application
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.vbprojAssemblyReference.cache
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.frmTest.resources
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.Resources.resources
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.vbproj.GenerateResource.cache
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.exe
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.xml
+D:\Oliver_Git\UI\0 程序讲义\02 程序环境\1 项目管理\3 XML资源管理\Test\obj\x86\Debug\Test.pdb
